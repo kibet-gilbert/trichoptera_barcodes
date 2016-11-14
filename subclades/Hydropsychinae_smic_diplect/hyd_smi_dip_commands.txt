@@ -1,0 +1,1 @@
+raxml -T 2 -# 1000 -s hyd_smi_dip_encode.phy -x 12345 -n hyd_smi_dip -m GTRGAMMA -f a -q hyd_smi_dip_partition

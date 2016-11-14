@@ -1,0 +1,755 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=676;
+	taxlabels
+	Kisaura_minakawai_1_1_JPN
+	Hydrobiosella_mixta_1_1_NZL
+	Dolophilodes_distincta_1_1_TN
+	Philopotamus_montanus_1_1_AUT
+	Wormaldia_occipitalis_1_1_ITA
+	Chimarrhodella_pilcopata_1_1_BOL
+	'Cernotina_OF_sp._GY1_1_1_GUY'
+	Chimarra_texana_1_1_TX
+	Xiphocentronidae_1_1_JPN
+	Xiphocentronidae_2_1_JPN
+	Plectrocnemia_scruposa_3_1_ESP
+	'Polycentropus_OF_sp._ED1_1_1_ECU'
+	Polyplectropus_pugiunculatus_2_1_TTO
+	Leptonema_crassum_1_1_CRI
+	Arctopsyche_grandis_1_1_WY
+	'Baliomorpha_pulchripennis_1_1_AUS.VI'
+	Trichomacronema_paniae_1_1_THA
+	Homoplectra_flinti_1_1_NC
+	Cheumatopsyche_analis_1_1_NJ
+	Smicridea_signata_1_1_VEN
+	Hydropsyche_sparna_1_1_NJ
+	Hydropsyche_morosa_1_1_MN
+	'Stenopsyche_navasi_1_1_CHN.YN'
+	Pseudostenopsyche_davisorum_1_1_CHL
+	'Stenopsychodes_aureoniger_1_1_AUS.NS'
+	Paduniella_kalamos_1_1_IDN
+	Lype_auripilis_1_1_PRT
+	Lype_diversa_1_1_NY
+	'Polycentropodidae_2_1_CHN.LN'
+	Psychomyia_lumina_1_1_CA
+	Psychomyia_morisitai_1_1_JPN
+	Psychomyia_flavida_1_1_ON
+	Tinodes_ashigaranis_1_1_JPN
+	Tinodes_rostocki_1_1_AUT
+	Tinodes_mataram_1_1_IDN
+	Tinodes_waeneri_1_1_PRT
+	Machairocentron_echinatum_1_1_VEN
+	Xiphocentron_1_1_MEX
+	'Xiphocentron_KMK_sp._1_1_CRI'
+	Melanotrichia_samaconius_1_1_IDN
+	'Melanotrichia_1_1_CHN.GD'
+	Phylocentropus_auriceps_1_1_VA
+	Dipseudopsis_capensis_1_1_ZAF
+	'Dipseudopsidae_1_1_CHN.GX'
+	Dipseudopsis_varians_1_1_
+	Dipseudopsis_benardi_1_3_THA
+	Dipseudopsis_benardi_5_1_THA
+	Dipseudopsis_benardi_2_1_THA
+	Dipseudopsis_benardi_4_1_THA
+	Dipseudopsis_benardi_3_1_THA
+	'Hyalopsyche_sachalinica_1_1_RUS.'
+	Phylocentropus_lucidus_2_2_NB
+	'Phylocentropus_lucidus_1_20_NB|NY'
+	Phylocentropus_lucidus_8_1_NC
+	Phylocentropus_lucidus_4_1_NC
+	Phylocentropus_lucidus_6_1_WV
+	Phylocentropus_carolinus_4_1_MD
+	Phylocentropus_carolinus_7_1_MD
+	Phylocentropus_carolinus_10_1_MD
+	Phylocentropus_carolinus_9_1_MD
+	Phylocentropus_carolinus_5_1_MD
+	Phylocentropus_lucidus_7_1_VA
+	Phylocentropus_lucidus_5_1_VA
+	Phylocentropus_lucidus_9_1_VA
+	Phylocentropus_lucidus_10_1_VA
+	Phylocentropus_lucidus_3_2_VA
+	Phylocentropus_carolinus_2_2_VA
+	Phylocentropus_carolinus_12_1_SC
+	Phylocentropus_carolinus_11_1_TN
+	Phylocentropus_carolinus_1_7_TN
+	Phylocentropus_carolinus_6_1_VA
+	Phylocentropus_harrisi_1_1_MS
+	Phylocentropus_placidus_8_1_IL
+	'Phylocentropus_placidus_3_4_GA|SC'
+	Phylocentropus_carolinus_3_1_MD
+	'Phylocentropus_placidus_2_4_NB|NY'
+	Phylocentropus_placidus_15_1_ON
+	Phylocentropus_placidus_5_1_
+	Phylocentropus_placidus_7_1_SC
+	Phylocentropus_placidus_14_1_FL
+	Phylocentropus_carolinus_8_1_MD
+	Phylocentropus_placidus_6_1_NJ
+	'Phylocentropus_placidus_1_6_NY|ON'
+	Phylocentropus_placidus_10_1_MI
+	Phylocentropus_placidus_9_1_NS
+	Phylocentropus_placidus_4_2_NB
+	Phylocentropus_placidus_13_1_NS
+	Phylocentropus_placidus_12_1_NS
+	Phylocentropus_placidus_11_1_NS
+	Parecnomina_resima_1_2_ZAF
+	Parecnomina_resima_3_1_ZAF
+	Parecnomina_resima_2_1_ZAF
+	Austrotinodes_texensis_1_1_TX
+	Austrotinodes_cubanus_1_1_CUB
+	Austrotinodes_OF_nsp_PR3_1_1_PER
+	Austrotinodes_adamsae_1_2_TTO
+	Austrotinodes_contubernalis_1_1_CRI
+	'Austrotinodes_3_1_AUS.VI'
+	'Ecnomina_1_2_AUS.NS'
+	'Ecnomina_serrata_1_1_AUS.NS'
+	'Ecnomina_volcella_1_1_AUS.QL'
+	'Ecnomina_batyle_1_2_AUS.NS'
+	'Ecnomina_2_1_AUS.NS'
+	'Ecnomina_5_1_AUS.NS'
+	'Ecnomina_3_1_AUS.NS'
+	'Ecnomina_4_1_AUS.VI'
+	Zelandoptila_moselyi_1_2_NZL
+	Zelandoptila_moselyi_2_1_NZL
+	Zelandoptila_moselyi_3_1_NZL
+	Ecnomina_zealandica_1_3_NZL
+	'Daternomina_1_1_AUS.VI'
+	'Daternomina_3_1_AUS.NS'
+	'Daternomina_6_1_AUS.NS'
+	'Daternomina_2_1_AUS.NS'
+	'Daternomina_scissura_1_1_AUS.QL'
+	'Daternomina_4_1_AUS.NS'
+	'Daternomina_bifida_1_2_AUS.NS'
+	'Daternomina_5_1_AUS.NS'
+	'Austrotinodes_1_2_AUS.NS'
+	'Austrotinodes_yalga_1_1_AUS.VI'
+	'Austrotinodes_2_1_AUS.QL'
+	Austrotinodes_recurvatus_1_1_CHL
+	Austrotinodes_picada_1_3_CHL
+	Austrotinodes_talcanus_2_1_CHL
+	Austrotinodes_talcanus_1_2_CHL
+	Austrotinodes_angustior_1_1_CHL
+	Austrotinodes_angustior_2_1_CHL
+	Austrotinodes_triangularis_1_1_CHL
+	Austrotinodes_talcanus_3_1_CHL
+	Austrotinodes_quadrispina_1_3_CHL
+	Austrotinodes_irwini_2_1_CHL
+	Austrotinodes_irwini_4_1_CHL
+	Austrotinodes_irwini_3_1_CHL
+	Austrotinodes_recta_1_3_ARG
+	Austrotinodes_recta_2_1_CHL
+	Austrotinodes_irwini_1_1_CHL
+	Ecnomus_yamashironis_1_2_JPN
+	'Ecnomus_sp._1_1_JPN'
+	'Ecnomus_tenellus_1_5_FIN|DEU|NLD'
+	Ecnomus_tenellus_3_1_
+	Ecnomus_tenellus_6_1_DEU
+	'Ecnomus_tenellus_2_5_HUN|ITA|POL'
+	Ecnomus_tenellus_5_1_DEU
+	Ecnomus_tenellus_4_1_JPN
+	Ecnomus_tenellus_7_1_JPN
+	Ecnomus_tenellus_8_1_JPN
+	Ecnomus_totiio_1_1_THA
+	Ecnomus_alkmene_1_1_THA
+	Ecnomus_deceptor_1_1_PRT
+	Ecnomus_kunenensis_1_1_ZAF
+	Ecnomus_insularis_1_1_SYC
+	Ecnomus_areion_1_1_THA
+	Ecnomus_tang_2_1_IDN
+	Ecnomus_puntung_1_2_IDN
+	Ecnomus_tang_3_1_IDN
+	'Ecnomus_pakadji_1_1_AUS.QL'
+	Ecnomus_pseudotenellus_1_1_THA
+	Ecnomus_auryn_1_1_ARE
+	'Ecnomus_miriwud_1_1_AUS.QL'
+	'Ecnomus_cuspidis_2_1_AUS.QL'
+	'Ecnomus_cuspidis_1_1_AUS.WA'
+	Ecnomus_tang_1_3_IDN
+	'Ecnomus_homhilensis_1_4_|Indian_Ocean'
+	Ecnomus_CJGsp_IQ1_1_3_IRQ
+	Ecnomus_CJGsp_IQ1_2_1_IRQ
+	Ecnomus_puro_1_1_THA
+	Ecnomus_puro_2_1_THA
+	'Ecnomus_turgidus_1_2_AUS.WA'
+	'Ecnomus_turgidus_2_1_AUS.VI'
+	'Ecnomus_kinka_1_1_AUS.QL'
+	'Ecnomus_pilbarensis_1_1_AUS.WA'
+	'Ecnomus_cygnitus_2_1_AUS.TS'
+	'Ecnomus_cygnitus_1_1_AUS.NS'
+	'Ecnomus_russellius_2_1_AUS.NS'
+	'Ecnomus_pansus_2_1_AUS.NS'
+	'Ecnomus_pansus_1_2_AUS.NS|AUS.VI'
+	'Ecnomus_wellsae_1_1_AUS.NS'
+	'Ecnomus_continentalis_1_1_AUS.NS'
+	'Ecnomus_deani_2_1_AUS.VI'
+	'Ecnomus_deani_1_1_AUS.NS'
+	'Ecnomus_deani_3_1_AUS.NS'
+	'Ecnomus_russellius_1_2_AUS.TS'
+	'Ecnomus_tillyardi_1_1_AUS.VI'
+	'Ecnomus_volsellus_2_1_AUS.NS'
+	'Ecnomus_volsellus_1_1_AUS.NS'
+	'Ecnomus_sp._AMB-83_A1'
+	Cyrnellus_fraternus_10_1_DOM
+	'Cyrnellus_ulmeri_1_1_BRA.SP'
+	'Cyrnellus_mammillatus_1_1_BRA.MG'
+	'Cyrnellus_OF_sp._GY2_1_1_GUY'
+	'Cyrnellus_OF_sp._GY1_1_1_GUY'
+	Cyrnellus_risi_1_1_VEN
+	'Cyrnellus_OF_sp._GY1_2_1_GUY'
+	Cyrnellus_fraternus_12_1_NIC
+	Cyrnellus_fraternus_9_1_MD
+	Cyrnellus_fraternus_11_1_
+	Cyrnellus_fraternus_2_4_MD
+	Cyrnellus_fraternus_3_3_MD
+	Cyrnellus_fraternus_7_1_FL
+	Cyrnellus_fraternus_8_1_VA
+	'Cyrnellus_fraternus_4_2_AR|FL'
+	Cyrnellus_fraternus_13_1_MD
+	Cyrnellus_fraternus_5_1_OK
+	'Cyrnellus_fraternus_1_11_AR|AZ|FL|MS|OK'
+	Cyrnellus_fraternus_6_1_MI
+	'Neureclipsis_napaea_1_1_AUS.NS'
+	'Neureclipsis_bimaculata_1_7_FIN|DEU|MB|MN|POL|SWE'
+	Neureclipsis_bimaculata_2_1_SWE
+	'Neureclipsis_valida_1_7_MB|MN|ON'
+	'Neureclipsis_valida_2_4_MB|MN'
+	'Neucentropus_mandjuricus_1_2_RUS.|RUS.Khabarovsk_Territory'
+	Neureclipsis_crepuscularis_9_1_NB
+	Neureclipsis_crepuscularis_1_16_NB
+	Neureclipsis_melco_2_1_FL
+	Neureclipsis_melco_1_2_FL
+	'Neureclipsis_crepuscularis_5_2_MD|NB'
+	Neureclipsis_crepuscularis_7_1_MB
+	Neureclipsis_crepuscularis_3_7_MB
+	Neureclipsis_crepuscularis_8_1_MB
+	'Neureclipsis_crepuscularis_2_10_MB|MN|ON|WY'
+	Neureclipsis_crepuscularis_6_1_FL
+	'Neureclipsis_crepuscularis_4_2_FL|VA'
+	'Nyctiophylax_OF_sp._GY1_1_1_GUY'
+	Cyrnus_flavidus_7_1_DEU
+	Cyrnus_flavidus_6_1_POL
+	Cyrnus_flavidus_2_1_NOR
+	Cyrnus_flavidus_3_1_FIN
+	Cyrnus_flavidus_5_1_FIN
+	Cyrnus_flavidus_4_1_FIN
+	Cyrnus_flavidus_1_2_FIN
+	Polycentropus_aspinosus_1_2_CHL
+	Polycentropus_obtusus_1_1_CHL
+	Polycentropus_chilensis_2_1_ARG
+	Polycentropus_chilensis_1_1_CHL
+	Polyplectropus_panamensis_1_1_CRI
+	'Paranyctiophylax_1_1_AUS.QL'
+	'Polyplectropus_3_1_AUS.QL'
+	'Nyctiophylax_eidolonus_1_1_AUS.QL'
+	'Polycentropodidae_6_1_AUS.VI'
+	'Paranyctiophylax_3_1_AUS.NS'
+	'Paranyctiophylax_2_1_AUS.NS'
+	'Paranyctiophylax_5_1_AUS.NS'
+	'Polycentropodidae_7_1_AUS.NS'
+	'Paranyctiophylax_4_1_AUS.NS'
+	'Plectrocnemia_wui_1_1_CHN.BJ'
+	'Plectrocnemia_sp09-4-1_1_1_CHN.SC'
+	'Plectrocnemia_sp09-3_1_1_CHN.SC'
+	'Plectrocnemia_sp09-4-2_1_1_CHN.SC'
+	'Nyctiophylax_denningi_1_6_AL|MD|SC|TN'
+	Nyctiophylax_moestus_3_6_NB
+	Nyctiophylax_moestus_6_1_NB
+	Nyctiophylax_moestus_9_1_NB
+	'Nyctiophylax_moestus_1_12_NB|NS'
+	Nyctiophylax_1_6_NY
+	Nyctiophylax_moestus_7_1_NB
+	Nyctiophylax_moestus_8_1_NB
+	'Nyctiophylax_moestus_2_9_MN|NB|ON'
+	Nyctiophylax_moestus_5_3_NJ
+	'Nyctiophylax_moestus_4_4_KY|MN|ON|TN'
+	Nyctiophylax_affinis_6_1_TN
+	Paranyctiophylax_affinis_1_1_VA
+	Nyctiophylax_affinis_5_1_VA
+	'Nyctiophylax_affinis_2_2_FL|VA'
+	'Nyctiophylax_banksi_1_2_NS|ON'
+	Nyctiophylax_serratus_2_1_LA
+	'Nyctiophylax_serratus_1_4_FL|VA'
+	Nyctiophylax_serratus_3_1_VA
+	Nyctiophylax_2_1_MD
+	Nyctiophylax_3_1_MD
+	Nyctiophylax_uncus_1_3_NS
+	Nyctiophylax_affinis_7_1_Newfoundland_and_Labrador
+	'Nyctiophylax_affinis_1_6_MN|Newfoundland_and_Labrador'
+	Nyctiophylax_affinis_3_1_
+	Nyctiophylax_affinis_4_1_MN
+	Nyctiophylax_4_1_NY
+	Nyctiophylax_celta_3_1_TN
+	Nyctiophylax_celta_2_1_MN
+	'Nyctiophylax_celta_1_5_AL|NB|TN'
+	Nyctiophylax_morsei_1_1_FL
+	Nyctiophylax_nephophilus_4_1_TN
+	Nyctiophylax_nephophilus_6_1_TN
+	'Nyctiophylax_nephophilus_1_9_NC|TN'
+	'Nyctiophylax_nephophilus_2_2_SC|VA'
+	Nyctiophylax_nephophilus_3_2_PA
+	Nyctiophylax_nephophilus_5_1_NC
+	Nyctiophylax_nephophilus_7_1_VA
+	'Polycentropodidae_5_1_AUS.NS'
+	'Polycentropodidae_4_1_AUS.QL'
+	'Polycentropodidae_3_1_AUS.QL'
+	Polyplectropus_aiolos_1_2_THA
+	Cernotina_truncona_1_5_FL
+	Cernotina_spicata_1_1_VA
+	Cernotina_calcea_1_1_TN
+	Cernotina_calcea_2_1_FL
+	Cernotina_calcea_3_1_FL
+	'Polycentropus_interruptus_2_7_NB|NY|ON'
+	Polycentropus_interruptus_4_1_NB
+	Polycentropus_interruptus_5_1_ON
+	'Polycentropus_interruptus_1_14_BC|ON|WA'
+	'Polycentropus_interruptus_3_2_NY|ON'
+	Polycentropus_flavus_6_1_ON
+	Polycentropus_flavus_3_3_ON
+	Polycentropus_flavus_5_1_ON
+	'Polycentropus_flavus_1_22_AK|BC|NB|ON'
+	Polycentropus_flavus_4_1_ON
+	'Polycentropus_flavus_2_14_ON|WA'
+	'Holocentropus_dubius_1_2_DEU|NOR'
+	Holocentropus_picicornis_2_2_MN
+	Polycentropus_timesis_1_1_NH
+	Holocentropus_insignis_1_1_FIN
+	Holocentropus_picicornis_4_1_FIN
+	'Holocentropus_picicornis_1_3_MNG|NOR'
+	Holocentropus_picicornis_3_1_NOR
+	Nyctiophylax_chiangmaiensis_1_2_THA
+	Nyctiophylax_tonngachang_1_1_THA
+	Cyrnus_nipponicus_1_3_JPN
+	Cyrnus_nipponicus_2_1_JPN
+	Cyrnus_insolutus_3_1_FIN
+	Cyrnus_insolutus_2_1_FIN
+	'Cyrnus_insolutus_1_2_FIN|POL'
+	Cyrnus_fennicus_1_3_JPN
+	Cyrnus_fennicus_2_2_JPN
+	Cyrnus_trimaculatus_7_1_DEU
+	'Cyrnus_trimaculatus_3_3_DEU|NOR'
+	'Cyrnus_trimaculatus_2_3_DEU|SWE'
+	Cyrnus_trimaculatus_5_1_AUT
+	'Cyrnus_trimaculatus_1_7_AUT|FIN|NOR'
+	'Cyrnus_trimaculatus_4_3_DEU|SVN'
+	Cyrnus_trimaculatus_6_1_AUT
+	Polycentropus_quadriappendiculatus_3_1_ARG
+	Polycentropus_quadriappendiculatus_2_1_CHL
+	Polycentropus_quadriappendiculatus_1_1_CHL
+	Nyctiophylax_neotropicalis_3_1_GUY
+	'Nyctiophylax_neotropicalis_2_1_BRA.MG'
+	'Nyctiophylax_neotropicalis_1_1_BRA.RJ'
+	'Nyctiophylax_n._sp._1_1_AUS.NS'
+	'Polycentropodidae_1_2_AUS.VI'
+	Plectrocnemia_maclachlani_1_1_NZL
+	Plectrocnemia_maclachlani_2_1_NZL
+	'Plectrocnemia_3_2_AUS.NS'
+	'Plectrocnemia_lacuna_1_1_AUS.NS'
+	'Plectrocnemia_4_1_AUS.NS'
+	'Plectrocnemia_8_1_AUS.VI'
+	'Plectrocnemia_9_1_AUS.VI'
+	'Plectrocnemia_6_1_AUS.VI'
+	'Plectrocnemia_altera_2_1_AUS.TS'
+	'Plectrocnemia_altera_1_1_AUS.TS'
+	'Polycentropus_nascotius_1_6_FL|MS|NC|NJ'
+	Polycentropus_nascotius_2_3_FL
+	Polycentropus_iculus_2_1_MN
+	'Polycentropus_iculus_1_4_NB|NY'
+	Polycentropus_albipunctus_3_1_NB
+	'Polycentropus_albipunctus_2_2_ON|PE'
+	'Polycentropus_albipunctus_1_2_NB|ON'
+	Polycentropus_smithae_1_1_AK
+	Polycentropus_smithae_2_1_BC
+	Polycentropus_smithae_3_1_Newfoundland_and_Labrador
+	'Polycentropus_sp._CHU1_1_1_MB'
+	'Polycentropus_remotus_1_3_MN|NJ'
+	Polycentropus_remotus_2_1_MN
+	Polycentropus_remotus_3_1_Newfoundland_and_Labrador
+	Polycentropus_remotus_4_1_ON
+	Polycentropus_remotus_5_1_AB
+	Polyplectropus_beccus_1_1_VEN
+	Polyplectropus_santiago_1_3_TX
+	Polyplectropus_santiago_2_1_TX
+	Polyplectropus_robacki_1_2_ECU
+	Polyplectropus_bravoae_1_1_CRI
+	Polycentropus_zurqui_2_1_CRI
+	'Polyplectropus_profaupar_1_1_BRA.SC'
+	'Polyplectropus_KMK_sp._1_1_BRA.MG'
+	Polyplectropus_hymenochilus_1_1_CRI
+	Polyplectropus_mignonae_1_1_CRI
+	Polyplectropus_charlesi_1_3_TX
+	Polyplectropus_charlesi_2_1_AZ
+	Polyplectropus_denticulus_1_1_CRI
+	Polyplectropus_deltoides_1_1_CRI
+	Polyplectropus_pugiunculatus_1_1_TTO
+	Polyplectropus_yolandae_1_1_CRI
+	'Plectrocnemia_tortosa_1_1_CHN.SC'
+	'Plectrocnemia_tortosa_2_1_CHN.SC'
+	'Plectrocnemia_5_1_CHN.YN'
+	'Plectrocnemia_HZ_n._sp._2_1_4_CHN.SC'
+	'Plectrocnemia_HZ_n._sp._2_2_1_CHN.SC'
+	Polycentropus_denningi_1_4_WA
+	Polycentropus_denningi_2_1_OR
+	Polycentropus_barri_1_1_WV
+	Polycentropus_colei_3_1_NC
+	'Polycentropus_sp._2_1_NC'
+	Polycentropus_colei_1_2_NC
+	Polycentropus_rickeri_3_1_NC
+	Polycentropus_rickeri_2_1_TN
+	Polycentropus_colei_2_1_NC
+	Polycentropus_rickeri_1_1_VA
+	'Polycentropus_clinei_2_2_NH|NJ'
+	'Polycentropus_clinei_1_6_NH|NJ|Newfoundland_and_Labrador|ON|WV'
+	Polycentropus_weedi_4_1_NB
+	'Polycentropus_weedi_1_2_MN|NB'
+	'Polycentropus_weedi_2_2_NB|ON'
+	Polycentropus_weedi_3_1_NS
+	'Polycentropus_aureolus_3_3_BC|MB'
+	Polycentropus_aureolus_2_8_MB
+	'Polycentropus_aureolus_1_22_AB|MB|MN|NB|NH|NS|PE'
+	Polycentropus_crassicornis_4_1_MB
+	Polycentropus_crassicornis_3_1_ON
+	Polycentropus_crassicornis_2_1_NH
+	'Polycentropus_crassicornis_1_2_ON|TN'
+	Plectrocnemia_laetabilis_4_1_PRT
+	Plectrocnemia_laetabilis_1_2_ESP
+	Plectrocnemia_laetabilis_3_1_ESP
+	Plectrocnemia_scruposa_4_1_ESP
+	Plectrocnemia_scruposa_2_1_ESP
+	Plectrocnemia_scruposa_1_2_ESP
+	Plectrocnemia_geniculata_5_1_FRA
+	Plectrocnemia_geniculata_3_1_FRA
+	Plectrocnemia_geniculata_4_1_ESP
+	Plectrocnemia_geniculata_1_5_AUT
+	Plectrocnemia_brevis_2_1_AUT
+	Plectrocnemia_brevis_1_1_GRC
+	Plectrocnemia_conspersa_2_1_NOR
+	Plectrocnemia_conspersa_3_1_FIN
+	'Plectrocnemia_conspersa_1_13_AUT|CZE|FIN|DEU|NOR'
+	Plectrocnemia_conjuncta_1_1_FIN
+	Plectrocnemia_geniculata_7_1_ESP
+	Plectrocnemia_geniculata_2_2_ESP
+	Plectrocnemia_geniculata_6_1_ESP
+	Plectrocnemia_geniculata_8_1_ESP
+	'Plectrocnemia_HZ_n._sp._8_1_1_CHN.SC'
+	'Polycentropus_variegatus_1_4_OR|WA'
+	'Polycentropus_variegatus_2_3_CA|WA'
+	Polycentropus_variegatus_4_1_WA
+	'Polycentropus_variegatus_3_2_MT|OR'
+	Polycentropus_halidus_3_1_UT
+	Polycentropus_similis_1_1_PNG
+	'Polyplectropus_1_3_AUS.QL'
+	Polycentropus_brongus_1_1_GHA
+	'Polycentropus_OF_sp._JP1_1_1_JPN'
+	'Polyplectropus_sp._1_1_THA'
+	Polycentropus_admin_1_1_THA
+	'Polyplectropus_acutus_1_1_CHN.JX'
+	'Polyplectropus_2_1_CHN.GX'
+	'Polyplectropus_nanjingensis_1_1_CHN.JS'
+	'Polyplectropus_convexus_1_1_CHN.SC'
+	'Plectrocnemia_OF_sp._jpb_1_1_JPN'
+	Plectrocnemia_banksi_1_1_JPN
+	Plectrocnemia_wui_2_1_MNG
+	'Plectrocnemia_wui_3_1_RUS.'
+	'Plectrocnemia_sp09-5-1_1_1_CHN.SC'
+	'Plectrocnemia_ondakeana_1_10_CHN.SC'
+	'Plectrocnemia_sp09-5-3_1_1_CHN.SC'
+	'Plectrocnemia_1_2_CHN.GD'
+	'Plectrocnemia_2_2_CHN.GD'
+	'Plectrocnemia_hoenei_1_3_CHN.GX'
+	Plectrocnemia_7_1_JPN
+	Plectrocnemia_kusnezovi_1_4_MNG
+	Plectrocnemia_kusnezovi_2_1_MNG
+	Polycentropus_cinereus_16_1_FL
+	Polycentropus_cinereus_13_1_ON
+	Polycentropus_cinereus_30_1_FL
+	Polycentropus_cinereus_20_1_NS
+	Polycentropus_8_1_MD
+	Polycentropus_cinereus_21_1_NC
+	Polycentropus_cinereus_19_1_NC
+	Polycentropus_cinereus_9_2_VA
+	Polycentropus_14_1_MD
+	Polycentropus_17_1_MD
+	Polycentropus_cinereus_17_1_TN
+	Polycentropus_20_1_MD
+	Polycentropus_cinereus_18_1_WV
+	Polycentropus_9_1_MD
+	Polycentropus_cinereus_15_1_MN
+	Polycentropus_cinereus_24_1_FL
+	Polycentropus_cinereus_23_1_FL
+	Polycentropus_cinereus_26_1_TN
+	'Polycentropus_cinereus_4_14_NB|TN'
+	Polycentropus_cinereus_25_1_NB
+	'Polycentropus_cinereus_5_6_AL|GA|NB|NJ'
+	Polycentropus_15_1_MD
+	Polycentropus_cinereus_27_1_NJ
+	Polycentropus_4_1_MD
+	Polycentropus_21_1_MD
+	Polycentropus_cinereus_11_1_FL
+	Polycentropus_13_1_MD
+	Polycentropus_cinereus_12_1_FL
+	Polycentropus_18_1_MD
+	Polycentropus_16_1_MD
+	Polycentropus_3_1_MD
+	Polycentropus_cinereus_14_1_NB
+	Polycentropus_cinereus_1_47_NB
+	Polycentropus_cinereus_2_26_NB
+	Polycentropus_cinereus_6_5_NB
+	Polycentropus_cinereus_10_1_MD
+	Polycentropus_cinereus_28_1_NB
+	'Polycentropus_cinereus_7_4_NB|ON'
+	Polycentropus_cinereus_8_3_MN
+	'Polycentropus_cinereus_3_17_AB|MB|MN|ON'
+	Polycentropus_cinereus_29_1_WA
+	Polycentropus_cinereus_22_1_ON
+	Polycentropus_insularis_1_1_GRD
+	Polycentropus_cuspidatus_1_1_ECU
+	Polycentropus_altmani_1_2_VEN
+	Polycentropus_unispina_1_3_COL
+	Polycentropus_connatus_1_1_VEN
+	Polycentropus_meridiensis_1_1_VEN
+	Polycentropus_meridiensis_2_1_VEN
+	Polycentropus_meridiensis_3_1_VEN
+	Polycentropus_11_1_MEX
+	Polycentropus_12_1_MEX
+	Polycentropus_10_1_MEX
+	Polycentropus_mexicanus_1_48_MEX
+	Polycentropus_1_43_MEX
+	Polycentropus_mexicanus_2_3_MEX
+	Polycentropus_arizonensis_3_1_MEX
+	Polycentropus_2_10_MEX
+	Polycentropus_arizonensis_2_1_AZ
+	Polycentropus_arizonensis_1_4_AZ
+	Polycentropus_exsertus_1_1_PER
+	Polycentropus_cressae_1_1_VEN
+	Polycentropus_joergenseni_4_1_PER
+	Polycentropus_joergenseni_1_4_VEN
+	Polycentropus_joergenseni_2_1_ECU
+	Polycentropus_joergenseni_3_1_ECU
+	Polycentropus_volcanus_1_2_CRI
+	Polycentropus_guatemalensis_1_2_NIC
+	'Polycentropus_halidus_1_7_AZ|CO|NM|TX'
+	'Polycentropus_halidus_2_5_AZ|CO|NM'
+	Polycentropus_digitus_1_2_CRI
+	Polycentropus_fortispinus_2_1_CRI
+	Polycentropus_fortispinus_1_1_CRI
+	Polycentropus_picana_3_1_TX
+	Polycentropus_picana_2_2_TX
+	Polycentropus_picana_1_2_TX
+	Polycentropus_mayanus_2_1_CRI
+	Polycentropus_mayanus_1_1_CRI
+	Polycentropus_digitus_2_1_CRI
+	Polycentropus_ceciliae_2_1_VEN
+	Polycentropus_ceciliae_1_1_VEN
+	Polycentropus_fasthi_1_3_CRI
+	Polycentropus_dentoides_1_1_CRI
+	Polycentropus_nebulosus_1_1_CRI
+	Polycentropus_phraterus_1_2_CRI
+	Polycentropus_fortunus_1_1_CRI
+	Polycentropus_zurqui_1_1_CRI
+	Polycentropus_garfio_1_3_CRI
+	Polycentropus_spicatus_1_1_CRI
+	Polycentropus_spicatus_2_1_CRI
+	Polycentropus_gertschi_2_1_AZ
+	Polycentropus_gertschi_1_3_AZ
+	Polycentropus_aztecus_2_4_AZ
+	Polycentropus_aztecus_1_12_MEX
+	Polycentropus_23_1_MEX
+	Polycentropus_aztecus_4_1_MEX
+	Polycentropus_aztecus_5_1_MEX
+	Polycentropus_aztecus_3_2_MEX
+	Polycentropus_floridensis_1_1_FL
+	'Polycentropus_centralis_2_3_KY|PA|TN'
+	Polycentropus_centralis_5_1_NS
+	Polycentropus_centralis_3_1_IL
+	Polycentropus_centralis_1_3_NS
+	Polycentropus_centralis_4_1_NB
+	Polycentropus_pixi_4_1_VA
+	Polycentropus_pixi_2_2_VA
+	Polycentropus_pixi_3_1_NB
+	Polycentropus_pixi_1_8_NB
+	Polycentropus_pentus_2_1_ON
+	Polycentropus_pentus_3_1_AL
+	'Polycentropus_pentus_1_2_NB|ON'
+	Polycentropus_22_1_NY
+	Polycentropus_confusus_3_2_NB
+	Polycentropus_confusus_5_1_MN
+	Polycentropus_confusus_2_3_TN
+	Polycentropus_confusus_4_1_TN
+	'Polycentropus_confusus_1_12_AL|GA|NJ|SC|TN|VA'
+	Polycentropus_elarus_3_1_NJ
+	Polycentropus_elarus_2_1_KY
+	Polycentropus_elarus_1_2_KY
+	'Polycentropus_maculatus_1_6_NC|TN'
+	Polycentropus_maculatus_2_3_NS
+	Polycentropus_carolinensis_3_1_NC
+	Polycentropus_carolinensis_2_1_VA
+	'Polycentropus_carolinensis_1_7_NC|TN'
+	Polycentropus_blicklei_1_1_VA
+	Polycentropus_blicklei_3_1_VA
+	Polycentropus_6_1_MD
+	Polycentropus_19_1_MD
+	'Polycentropus_sp._1_1_NB'
+	'Polycentropus_sp._BIOUG01_2_1_NB'
+	Polycentropus_blicklei_2_1_VA
+	'Polycentropus_sp._BIOUG01_1_1_ON'
+	Polycentropus_7_1_MD
+	Polycentropus_24_1_MD
+	Polycentropus_5_1_MD
+	Polycentropus_nigriceps_1_1_CUB
+	Polycentropus_mathisi_1_1_CUB
+	Polycentropus_zaneta_2_1_PRI
+	Polycentropus_zaneta_1_1_PRI
+	Polycentropus_domingensis_1_1_DOM
+	Polycentropus_jeldesi_1_1_DOM
+	Polycentropus_jeldesi_2_1_DOM
+	Polycentropus_pedernales_1_1_DOM
+	Polycentropus_pedernales_2_1_DOM
+	Polycentropus_vanderpooli_2_1_
+	Polycentropus_vanderpooli_1_2_DOM
+	Polycentropus_irroratus_2_1_DEU
+	'Polycentropus_irroratus_1_7_AUT|DEU'
+	Polycentropus_corniger_2_1_ESP
+	Polycentropus_corniger_1_1_PRT
+	Polycentropus_kingi_10_1_PRT
+	Polycentropus_djaman_1_1_KGZ
+	'Polycentropus_schmidi_1_2_AUT|DEU'
+	Polycentropus_excisus_3_1_GRC
+	Polycentropus_excisus_4_1_GRC
+	Polycentropus_excisus_2_1_GRC
+	Polycentropus_morettii_2_1_
+	'Polycentropus_morettii_1_2_FRA|ITA'
+	'Polycentropus_telifer_1_2_PRT|ESP'
+	Polycentropus_excisus_1_8_AUT
+	Plectrocnemia_laetabilis_2_1_FRA
+	Polycentropus_intricatus_2_1_ESP
+	Polycentropus_intricatus_1_3_ESP
+	Polycentropus_longispinosus_1_1_PER
+	Polycentropus_rickeri_4_1_ITA
+	Polycentropus_rickeri_5_1_ITA
+	Polycentropus_mortoni_1_1_ITA
+	'Polycentropus_flavomaculatus_3_3_AUT|DEU'
+	Polycentropus_flavomaculatus_6_1_DEU
+	'Polycentropus_flavomaculatus_5_2_AUT|Faeroe_Islands'
+	Polycentropus_flavomaculatus_9_1_ITA
+	Polycentropus_flavomaculatus_7_1_ITA
+	Polycentropus_flavomaculatus_10_1_AUT
+	'Polycentropus_flavomaculatus_2_5_AUT|DEU'
+	'Polycentropus_flavomaculatus_1_6_AUT|FIN|NOR|SWE'
+	Polycentropus_flavomaculatus_4_2_AUT
+	Polycentropus_flavomaculatus_8_1_NOR
+	Polycentropus_kingi_9_1_PRT
+	Polycentropus_kingi_8_1_PRT
+	Polycentropus_kingi_4_1_PRT
+	Polycentropus_kingi_6_1_PRT
+	Polycentropus_kingi_5_1_ESP
+	Polycentropus_kingi_7_1_ESP
+	Polycentropus_kingi_3_1_ESP
+	Polycentropus_kingi_1_3_ESP
+	Polycentropus_kingi_2_1_ESP
+	Polyplectropus_aurifusca_1_1_NZL
+	Polyplectropus_aurifuscus_4_1_NZL
+	Polyplectropus_aurifuscus_1_4_NZL
+	Polyplectropus_aurifuscus_3_2_NZL
+	Polyplectropus_aurifuscus_2_3_NZL
+	Polyplectropus_aurifuscus_5_1_NZL
+	Polyplectropus_impluvii_1_5_NZL
+	'Polyplectropus_sp._2_1_NZL'
+	Polyplectropus_puerilis_8_1_NZL
+	Polyplectropus_puerilis_7_1_NZL
+	Polyplectropus_puerilis_6_1_NZL
+	Polyplectropus_puerilis_2_1_NZL
+	Polyplectropus_puerilis_1_8_NZL
+	Polyplectropus_puerilis_3_1_NZL
+	Polyplectropus_puerilis_10_1_NZL
+	Polyplectropus_puerilis_5_1_NZL
+	Polyplectropus_puerilis_4_1_NZL
+	Polyplectropus_altera_1_12_NZL
+	Polyplectropus_altera_4_1_NZL
+	Polyplectropus_altera_3_2_NZL
+	Polyplectropus_altera_2_4_NZL
+	Polyplectropus_puerilis_9_1_NZL
+	Pseudoneureclipsis_philemon_1_1_THA
+	'Pseudoneureclipsis_HM_sp._TH1_1_1_THA'
+	Pseudoneureclipsis_CJGsp_IQ1_1_1_IRQ
+	'Pseudoneureclipsis_sp._1_1_'
+	Pseudoneureclipsis_josia_1_1_THA
+	Pseudoneureclipsis_ramosa_3_1_THA
+	Pseudoneureclipsis_ramosa_1_1_IDN
+	Pseudoneureclipsis_ramosa_2_1_IDN
+	Antillopsyche_tubicola_1_1_PRI
+	Antillopsyche_demma_1_1_DOM
+	Antillopsyche_demma_2_1_DOM
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (Kisaura_minakawai_1_1_JPN[&!color=#-5000269]:0.30751956,((Hydrobiosella_mixta_1_1_NZL[&!color=#-5000269]:0.17582756,Dolophilodes_distincta_1_1_TN[&!color=#-5000269]:0.20588343)[&!color=#-5000269,bootstraps=57]:0.07838906,((Philopotamus_montanus_1_1_AUT[&!color=#-5000269]:0.29962096,Wormaldia_occipitalis_1_1_ITA[&!color=#-5000269]:0.34861252)[&!color=#-5000269,bootstraps=38]:0.08075854,(Chimarrhodella_pilcopata_1_1_BOL[&!color=#-5000269]:0.28178564,('Cernotina_OF_sp._GY1_1_1_GUY'[&!color=#-5000269]:0.27268624,Chimarra_texana_1_1_TX[&!color=#-5000269]:0.21733117)[&!color=#-5000269,bootstraps=100]:0.25356692)[&!color=#-5000269,bootstraps=36]:0.08954066)[&!color=#-5000269,bootstraps=20]:0.06966211)[&!color=#-5000269,bootstraps=10]:0.02069935,((((Xiphocentronidae_1_1_JPN[&!color=#-5000269]:1.2647627E-6,Xiphocentronidae_2_1_JPN[&!color=#-5000269]:0.02066102)[&!color=#-5000269,bootstraps=100]:0.51013786,(Plectrocnemia_scruposa_3_1_ESP[&!color=#-5000269]:0.27429667,('Polycentropus_OF_sp._ED1_1_1_ECU'[&!color=#-5000269]:0.015039163,Polyplectropus_pugiunculatus_2_1_TTO[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.32215366)[&!color=#-5000269,bootstraps=100]:0.56433916)[&!color=#-5000269,bootstraps=77]:0.17281365,(Leptonema_crassum_1_1_CRI[&!color=#-5000269]:0.42153546,(Arctopsyche_grandis_1_1_WY[&!color=#-5000269]:0.44027442,(('Baliomorpha_pulchripennis_1_1_AUS.VI'[&!color=#-5000269]:0.47568622,Trichomacronema_paniae_1_1_THA[&!color=#-5000269]:0.5228684)[&!color=#-5000269,bootstraps=44]:0.188539,(Homoplectra_flinti_1_1_NC[&!color=#-5000269]:0.4100265,(Cheumatopsyche_analis_1_1_NJ[&!color=#-5000269]:0.5139384,(Smicridea_signata_1_1_VEN[&!color=#-5000269]:1.1173981,(Hydropsyche_sparna_1_1_NJ[&!color=#-5000269]:0.20407017,Hydropsyche_morosa_1_1_MN[&!color=#-5000269]:0.15566248)[&!color=#-5000269,bootstraps=98]:0.23482578)[&!color=#-5000269,bootstraps=13]:0.033161163)[&!color=#-5000269,bootstraps=26]:0.07978942)[&!color=#-5000269,bootstraps=44]:0.10119619)[&!color=#-5000269,bootstraps=20]:1.2647627E-6)[&!color=#-5000269,bootstraps=52]:0.06878497)[&!color=#-5000269,bootstraps=91]:0.120268054)[&!color=#-5000269,bootstraps=51]:0.11716005,(('Stenopsyche_navasi_1_1_CHN.YN'[&!color=#-5000269]:0.36005354,(Pseudostenopsyche_davisorum_1_1_CHL[&!color=#-5000269]:0.23813176,'Stenopsychodes_aureoniger_1_1_AUS.NS'[&!color=#-5000269]:0.33308813)[&!color=#-5000269,bootstraps=100]:0.27208978)[&!color=#-5000269,bootstraps=94]:0.11547133,((Paduniella_kalamos_1_1_IDN[&!color=#-5000269]:0.46871412,(Lype_auripilis_1_1_PRT[&!color=#-5000269]:0.19342613,Lype_diversa_1_1_NY[&!color=#-5000269]:0.17768018)[&!color=#-5000269,bootstraps=100]:0.15678743)[&!color=#-5000269,bootstraps=51]:0.07300512,((('Polycentropodidae_2_1_CHN.LN'[&!color=#-5000269]:0.41089016,(Psychomyia_lumina_1_1_CA[&!color=#-5000269]:0.3221566,(Psychomyia_morisitai_1_1_JPN[&!color=#-5000269]:0.21012469,Psychomyia_flavida_1_1_ON[&!color=#-5000269]:0.19245802)[&!color=#-5000269,bootstraps=69]:0.061217528)[&!color=#-5000269,bootstraps=43]:0.08372203)[&!color=#-5000269,bootstraps=32]:0.042523433,((Tinodes_ashigaranis_1_1_JPN[&!color=#-5000269]:0.18114969,(Tinodes_rostocki_1_1_AUT[&!color=#-5000269]:0.14572455,(Tinodes_mataram_1_1_IDN[&!color=#-5000269]:0.22522862,Tinodes_waeneri_1_1_PRT[&!color=#-5000269]:0.22379376)[&!color=#-5000269,bootstraps=48]:0.048157673)[&!color=#-5000269,bootstraps=17]:1.2647627E-6)[&!color=#-5000269,bootstraps=99]:0.24176846,(Machairocentron_echinatum_1_1_VEN[&!color=#-5000269]:0.26195672,(Xiphocentron_1_1_MEX[&!color=#-5000269]:0.24547611,('Xiphocentron_KMK_sp._1_1_CRI'[&!color=#-5000269]:0.20799011,(Melanotrichia_samaconius_1_1_IDN[&!color=#-5000269]:0.29293656,'Melanotrichia_1_1_CHN.GD'[&!color=#-5000269]:0.1881865)[&!color=#-5000269,bootstraps=84]:0.10627256)[&!color=#-5000269,bootstraps=80]:0.092703864)[&!color=#-5000269,bootstraps=21]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.20444128)[&!color=#-5000269,bootstraps=59]:0.05416268)[&!color=#-5000269,bootstraps=18]:0.055946656,((Phylocentropus_auriceps_1_1_VA[&!color=#-5000269]:0.43970528,((Dipseudopsis_capensis_1_1_ZAF[&!color=#-5000269]:0.16215362,(('Dipseudopsidae_1_1_CHN.GX'[&!color=#-5000269]:0.22627355,Dipseudopsis_varians_1_1_[&!color=#-5000269]:0.21689741)[&!color=#-5000269,bootstraps=81]:0.10991023,(Dipseudopsis_benardi_1_3_THA[&!color=#-5000269]:1.2647627E-6,(Dipseudopsis_benardi_5_1_THA[&!color=#-5000269]:0.0046789553,(Dipseudopsis_benardi_2_1_THA[&!color=#-5000269]:0.0015899498,(Dipseudopsis_benardi_4_1_THA[&!color=#-5000269]:0.0015526783,Dipseudopsis_benardi_3_1_THA[&!color=#-5000269]:0.0015245894)[&!color=#-5000269,bootstraps=25]:1.2647627E-6)[&!color=#-5000269,bootstraps=45]:1.2647627E-6)[&!color=#-5000269,bootstraps=44]:0.0030309833)[&!color=#-5000269,bootstraps=100]:0.15459818)[&!color=#-5000269,bootstraps=65]:0.0687966)[&!color=#-5000269,bootstraps=100]:0.34459022,('Hyalopsyche_sachalinica_1_1_RUS.'[&!color=#-5000269]:0.5702968,(((Phylocentropus_lucidus_2_2_NB[&!color=#-5000269]:0.0017216874,'Phylocentropus_lucidus_1_20_NB|NY'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=95]:0.008993231,((Phylocentropus_lucidus_8_1_NC[&!color=#-5000269]:0.0034848896,(Phylocentropus_lucidus_4_1_NC[&!color=#-5000269]:1.2647627E-6,Phylocentropus_lucidus_6_1_WV[&!color=#-5000269]:0.0038515893)[&!color=#-5000269,bootstraps=17]:1.2647627E-6)[&!color=#-5000269,bootstraps=51]:0.0033087,(Phylocentropus_carolinus_4_1_MD[&!color=#-5000269]:1.2647627E-6,(Phylocentropus_carolinus_7_1_MD[&!color=#-5000269]:1.2647627E-6,(Phylocentropus_carolinus_10_1_MD[&!color=#-5000269]:1.2647627E-6,(Phylocentropus_carolinus_9_1_MD[&!color=#-5000269]:1.2647627E-6,(Phylocentropus_carolinus_5_1_MD[&!color=#-5000269]:1.2647627E-6,(Phylocentropus_lucidus_7_1_VA[&!color=#-5000269]:0.0017625677,(Phylocentropus_lucidus_5_1_VA[&!color=#-5000269]:1.2647627E-6,(Phylocentropus_lucidus_9_1_VA[&!color=#-5000269]:0.0018120275,(Phylocentropus_lucidus_10_1_VA[&!color=#-5000269]:0.0018088425,Phylocentropus_lucidus_3_2_VA[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=24]:1.2647627E-6)[&!color=#-5000269,bootstraps=87]:0.007292322)[&!color=#-5000269,bootstraps=2]:1.2647627E-6)[&!color=#-5000269,bootstraps=15]:1.2647627E-6)[&!color=#-5000269,bootstraps=9]:1.2647627E-6)[&!color=#-5000269,bootstraps=6]:1.2647627E-6)[&!color=#-5000269,bootstraps=3]:1.2647627E-6)[&!color=#-5000269,bootstraps=3]:1.2647627E-6)[&!color=#-5000269,bootstraps=36]:0.0019652727)[&!color=#-5000269,bootstraps=67]:0.004212014)[&!color=#-5000269,bootstraps=100]:0.20713623,((Phylocentropus_carolinus_2_2_VA[&!color=#-5000269]:0.024418147,(Phylocentropus_carolinus_12_1_SC[&!color=#-5000269]:0.03290408,(Phylocentropus_carolinus_11_1_TN[&!color=#-5000269]:0.002905417,(Phylocentropus_carolinus_1_7_TN[&!color=#-5000269]:0.003251441,Phylocentropus_carolinus_6_1_VA[&!color=#-5000269]:0.012797774)[&!color=#-5000269,bootstraps=42]:0.002871641)[&!color=#-5000269,bootstraps=83]:0.019291112)[&!color=#-5000269,bootstraps=79]:0.01951786)[&!color=#-5000269,bootstraps=97]:0.19368106,(Phylocentropus_harrisi_1_1_MS[&!color=#-5000269]:0.19935168,((Phylocentropus_placidus_8_1_IL[&!color=#-5000269]:0.0013414953,('Phylocentropus_placidus_3_4_GA|SC'[&!color=#-5000269]:0.0016944389,(Phylocentropus_carolinus_3_1_MD[&!color=#-5000269]:0.0017966166,'Phylocentropus_placidus_2_4_NB|NY'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=82]:0.0016760773)[&!color=#-5000269,bootstraps=85]:0.0055400264)[&!color=#-5000269,bootstraps=98]:0.033602446,((Phylocentropus_placidus_15_1_ON[&!color=#-5000269]:0.0018013424,Phylocentropus_placidus_5_1_[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=96]:0.023237007,((Phylocentropus_placidus_7_1_SC[&!color=#-5000269]:1.2647627E-6,Phylocentropus_placidus_14_1_FL[&!color=#-5000269]:0.005296574)[&!color=#-5000269,bootstraps=55]:0.005126958,(Phylocentropus_carolinus_8_1_MD[&!color=#-5000269]:0.005410916,(Phylocentropus_placidus_6_1_NJ[&!color=#-5000269]:1.2647627E-6,('Phylocentropus_placidus_1_6_NY|ON'[&!color=#-5000269]:1.2647627E-6,(Phylocentropus_placidus_10_1_MI[&!color=#-5000269]:0.001676417,((Phylocentropus_placidus_9_1_NS[&!color=#-5000269]:0.0017146252,Phylocentropus_placidus_4_2_NB[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=31]:1.2647627E-6,(Phylocentropus_placidus_13_1_NS[&!color=#-5000269]:0.0017044711,(Phylocentropus_placidus_12_1_NS[&!color=#-5000269]:1.2647627E-6,Phylocentropus_placidus_11_1_NS[&!color=#-5000269]:0.0017133128)[&!color=#-5000269,bootstraps=39]:1.2647627E-6)[&!color=#-5000269,bootstraps=65]:0.0017161573)[&!color=#-5000269,bootstraps=60]:0.0017189132)[&!color=#-5000269,bootstraps=17]:1.2647627E-6)[&!color=#-5000269,bootstraps=22]:1.2647627E-6)[&!color=#-5000269,bootstraps=33]:1.2647627E-6)[&!color=#-5000269,bootstraps=84]:0.0034291274)[&!color=#-5000269,bootstraps=75]:0.011602657)[&!color=#-5000269,bootstraps=65]:0.014809045)[&!color=#-5000269,bootstraps=89]:0.061466087)[&!color=#-5000269,bootstraps=99]:0.15307784)[&!color=#-5000269,bootstraps=77]:0.11214263)[&!color=#-5000269,bootstraps=63]:0.053549897)[&!color=#-5000269,bootstraps=61]:0.05918004)[&!color=#-5000269,bootstraps=15]:1.2647627E-6)[&!color=#-5000269,bootstraps=95]:0.10505626,((((Parecnomina_resima_1_2_ZAF[&!color=#-5000269]:0.006602478,(Parecnomina_resima_3_1_ZAF[&!color=#-5000269]:0.0021812571,Parecnomina_resima_2_1_ZAF[&!color=#-5000269]:0.00390883)[&!color=#-5000269,bootstraps=72]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.31976056,(((Austrotinodes_texensis_1_1_TX[&!color=#-5000269]:0.18196125,Austrotinodes_cubanus_1_1_CUB[&!color=#-5000269]:0.1518584)[&!color=#-5000269,bootstraps=71]:0.074289955,(Austrotinodes_OF_nsp_PR3_1_1_PER[&!color=#-5000269]:0.22076388,(Austrotinodes_adamsae_1_2_TTO[&!color=#-5000269]:0.1382805,Austrotinodes_contubernalis_1_1_CRI[&!color=#-5000269]:0.13782799)[&!color=#-5000269,bootstraps=56]:0.030970292)[&!color=#-5000269,bootstraps=100]:0.1651095)[&!color=#-5000269,bootstraps=99]:0.10054256,(('Austrotinodes_3_1_AUS.VI'[&!color=#-5000269]:0.2938019,(('Ecnomina_1_2_AUS.NS'[&!color=#-5000269]:1.2647627E-6,'Ecnomina_serrata_1_1_AUS.NS'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.13742858,(('Ecnomina_volcella_1_1_AUS.QL'[&!color=#-5000269]:0.16242012,'Ecnomina_batyle_1_2_AUS.NS'[&!color=#-5000269]:0.07898844)[&!color=#-5000269,bootstraps=52]:0.0105964225,('Ecnomina_2_1_AUS.NS'[&!color=#-5000269]:0.12876773,('Ecnomina_5_1_AUS.NS'[&!color=#-5000269]:0.00885485,('Ecnomina_3_1_AUS.NS'[&!color=#-5000269]:0.01910353,'Ecnomina_4_1_AUS.VI'[&!color=#-5000269]:0.01617113)[&!color=#-5000269,bootstraps=38]:0.0057539036)[&!color=#-5000269,bootstraps=99]:0.097473115)[&!color=#-5000269,bootstraps=51]:0.01325551)[&!color=#-5000269,bootstraps=83]:0.055443168)[&!color=#-5000269,bootstraps=100]:0.17040366)[&!color=#-5000269,bootstraps=20]:0.041816592,(((Zelandoptila_moselyi_1_2_NZL[&!color=#-16777216]:0.0017518137,(Zelandoptila_moselyi_2_1_NZL[&!color=#-16777216]:0.0040181526,Zelandoptila_moselyi_3_1_NZL[&!color=#-16777216]:1.2647627E-6)[&!color=#-16777216,bootstraps=100]:0.01002999)[&!color=#-16777216,bootstraps=100]:0.43665746,(Ecnomina_zealandica_1_3_NZL[&!color=#-5000269]:0.2618695,(('Daternomina_1_1_AUS.VI'[&!color=#-5000269]:0.110426486,('Daternomina_3_1_AUS.NS'[&!color=#-5000269]:0.006720266,'Daternomina_6_1_AUS.NS'[&!color=#-5000269]:0.011266536)[&!color=#-5000269,bootstraps=100]:0.10544337)[&!color=#-5000269,bootstraps=100]:0.32636532,('Daternomina_2_1_AUS.NS'[&!color=#-5000269]:0.1401203,('Daternomina_scissura_1_1_AUS.QL'[&!color=#-5000269]:0.09108308,('Daternomina_4_1_AUS.NS'[&!color=#-5000269]:0.0018877743,('Daternomina_bifida_1_2_AUS.NS'[&!color=#-5000269]:1.2647627E-6,'Daternomina_5_1_AUS.NS'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=66]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.14397708)[&!color=#-5000269,bootstraps=85]:0.098455474)[&!color=#-5000269,bootstraps=67]:0.030008413)[&!color=#-5000269,bootstraps=66]:0.09027054)[&!color=#-5000269,bootstraps=89]:0.042885855)[&!color=#-5000269,bootstraps=24]:0.050063543,(('Austrotinodes_1_2_AUS.NS'[&!color=#-5000269]:0.16358098,'Austrotinodes_yalga_1_1_AUS.VI'[&!color=#-5000269]:0.12502801)[&!color=#-5000269,bootstraps=99]:0.14781393,('Austrotinodes_2_1_AUS.QL'[&!color=#-5000269]:0.71765035,(Austrotinodes_recurvatus_1_1_CHL[&!color=#-5000269]:0.24896601,(Austrotinodes_picada_1_3_CHL[&!color=#-5000269]:0.15198494,(((Austrotinodes_talcanus_2_1_CHL[&!color=#-5000269]:0.0018250454,Austrotinodes_talcanus_1_2_CHL[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.14200127,(Austrotinodes_angustior_1_1_CHL[&!color=#-5000269]:0.005223409,Austrotinodes_angustior_2_1_CHL[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.18133861)[&!color=#-5000269,bootstraps=41]:0.05369686,(Austrotinodes_triangularis_1_1_CHL[&!color=#-5000269]:0.13712741,((Austrotinodes_talcanus_3_1_CHL[&!color=#-5000269]:1.2647627E-6,Austrotinodes_quadrispina_1_3_CHL[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.12429441,(Austrotinodes_irwini_2_1_CHL[&!color=#-5000269]:0.03915611,((Austrotinodes_irwini_4_1_CHL[&!color=#-5000269]:0.018793836,Austrotinodes_irwini_3_1_CHL[&!color=#-5000269]:0.006610983)[&!color=#-5000269,bootstraps=77]:0.007065554,(Austrotinodes_recta_1_3_ARG[&!color=#-5000269]:0.03082412,(Austrotinodes_recta_2_1_CHL[&!color=#-5000269]:0.0025759884,Austrotinodes_irwini_1_1_CHL[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.011100594)[&!color=#-5000269,bootstraps=74]:0.017254401)[&!color=#-5000269,bootstraps=95]:0.049840342)[&!color=#-5000269,bootstraps=68]:0.03329966)[&!color=#-5000269,bootstraps=70]:0.05107625)[&!color=#-5000269,bootstraps=58]:0.060304362)[&!color=#-5000269,bootstraps=15]:0.019942425)[&!color=#-5000269,bootstraps=36]:0.0075545125)[&!color=#-5000269,bootstraps=94]:0.120429)[&!color=#-5000269,bootstraps=27]:0.01835689)[&!color=#-5000269,bootstraps=47]:0.05603528)[&!color=#-5000269,bootstraps=19]:0.02332324)[&!color=#-5000269,bootstraps=9]:0.020887323)[&!color=#-5000269,bootstraps=42]:0.039146293)[&!color=#-5000269,bootstraps=72]:0.043822873,((Ecnomus_yamashironis_1_2_JPN[&!color=#-5000269]:0.10697927,('Ecnomus_sp._1_1_JPN'[&!color=#-5000269]:0.09282014,(('Ecnomus_tenellus_1_5_FIN|DEU|NLD'[&!color=#-5000269]:1.2647627E-6,Ecnomus_tenellus_3_1_[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=77]:1.2647627E-6,(Ecnomus_tenellus_6_1_DEU[&!color=#-5000269]:0.0016896919,('Ecnomus_tenellus_2_5_HUN|ITA|POL'[&!color=#-5000269]:1.2647627E-6,(Ecnomus_tenellus_5_1_DEU[&!color=#-5000269]:0.001689369,(Ecnomus_tenellus_4_1_JPN[&!color=#-5000269]:1.2647627E-6,(Ecnomus_tenellus_7_1_JPN[&!color=#-5000269]:0.0018141334,Ecnomus_tenellus_8_1_JPN[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=68]:0.0057058563)[&!color=#-5000269,bootstraps=84]:0.021134298)[&!color=#-5000269,bootstraps=14]:1.2647627E-6)[&!color=#-5000269,bootstraps=10]:1.2647627E-6)[&!color=#-5000269,bootstraps=41]:0.0035043673)[&!color=#-5000269,bootstraps=100]:0.119258955)[&!color=#-5000269,bootstraps=93]:0.03395489)[&!color=#-5000269,bootstraps=99]:0.14531882,((Ecnomus_totiio_1_1_THA[&!color=#-5000269]:0.24584192,Ecnomus_alkmene_1_1_THA[&!color=#-5000269]:0.4082588,(((Ecnomus_deceptor_1_1_PRT[&!color=#-5000269]:0.19554557,(Ecnomus_kunenensis_1_1_ZAF[&!color=#-5000269]:0.24286556,Ecnomus_insularis_1_1_SYC[&!color=#-5000269]:0.19287047)[&!color=#-5000269,bootstraps=12]:0.004855831)[&!color=#-5000269,bootstraps=29]:0.055302184,((Ecnomus_areion_1_1_THA[&!color=#-5000269]:0.21326981,(Ecnomus_tang_2_1_IDN[&!color=#-5000269]:0.10499176,(Ecnomus_puntung_1_2_IDN[&!color=#-5000269]:0.0036877342,Ecnomus_tang_3_1_IDN[&!color=#-5000269]:0.003020315)[&!color=#-5000269,bootstraps=100]:0.07297197)[&!color=#-5000269,bootstraps=96]:0.10332247)[&!color=#-5000269,bootstraps=35]:0.026595986,('Ecnomus_pakadji_1_1_AUS.QL'[&!color=#-5000269]:0.16366054,((Ecnomus_pseudotenellus_1_1_THA[&!color=#-5000269]:0.200264,Ecnomus_auryn_1_1_ARE[&!color=#-5000269]:0.21003662)[&!color=#-5000269,bootstraps=30]:0.01176866,('Ecnomus_miriwud_1_1_AUS.QL'[&!color=#-5000269]:0.13815558,('Ecnomus_cuspidis_2_1_AUS.QL'[&!color=#-5000269]:0.077344075,'Ecnomus_cuspidis_1_1_AUS.WA'[&!color=#-5000269]:0.044699676)[&!color=#-5000269,bootstraps=84]:0.046023194)[&!color=#-5000269,bootstraps=50]:0.044749897,(((Ecnomus_tang_1_3_IDN[&!color=#-5000269]:0.13507944,('Ecnomus_homhilensis_1_4_|Indian_Ocean'[&!color=#-5000269]:0.10283076,(Ecnomus_CJGsp_IQ1_1_3_IRQ[&!color=#-5000269]:0.0045691975,Ecnomus_CJGsp_IQ1_2_1_IRQ[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.11123745)[&!color=#-5000269,bootstraps=73]:0.047551543)[&!color=#-5000269,bootstraps=6]:3.4415076E-4,((Ecnomus_puro_1_1_THA[&!color=#-5000269]:0.003917163,Ecnomus_puro_2_1_THA[&!color=#-5000269]:6.400906E-4)[&!color=#-5000269,bootstraps=100]:0.19916621,('Ecnomus_turgidus_1_2_AUS.WA'[&!color=#-5000269]:0.07129644,'Ecnomus_turgidus_2_1_AUS.VI'[&!color=#-5000269]:0.09805225)[&!color=#-5000269,bootstraps=87]:0.07324924,(((('Ecnomus_kinka_1_1_AUS.QL'[&!color=#-5000269]:0.24138562,'Ecnomus_pilbarensis_1_1_AUS.WA'[&!color=#-5000269]:0.09879227)[&!color=#-5000269,bootstraps=64]:0.06262829,('Ecnomus_cygnitus_2_1_AUS.TS'[&!color=#-5000269]:1.2647627E-6,'Ecnomus_cygnitus_1_1_AUS.NS'[&!color=#-5000269]:0.005944112)[&!color=#-5000269,bootstraps=100]:0.17270297)[&!color=#-5000269,bootstraps=21]:0.023525145,('Ecnomus_russellius_2_1_AUS.NS'[&!color=#-5000269]:0.06323362,('Ecnomus_pansus_2_1_AUS.NS'[&!color=#-5000269]:1.2647627E-6,'Ecnomus_pansus_1_2_AUS.NS|AUS.VI'[&!color=#-5000269]:0.0046946835)[&!color=#-5000269,bootstraps=100]:0.13261038)[&!color=#-5000269,bootstraps=12]:0.017765645,(('Ecnomus_wellsae_1_1_AUS.NS'[&!color=#-5000269]:0.09524457,'Ecnomus_continentalis_1_1_AUS.NS'[&!color=#-5000269]:0.08227655)[&!color=#-5000269,bootstraps=23]:0.010521467,((('Ecnomus_deani_2_1_AUS.VI'[&!color=#-5000269]:0.0023472027,('Ecnomus_deani_1_1_AUS.NS'[&!color=#-5000269]:0.0076925885,'Ecnomus_deani_3_1_AUS.NS'[&!color=#-5000269]:0.0023718611)[&!color=#-5000269,bootstraps=63]:0.004770716)[&!color=#-5000269,bootstraps=98]:0.031805012,(('Ecnomus_russellius_1_2_AUS.TS'[&!color=#-5000269]:0.039522257,'Ecnomus_tillyardi_1_1_AUS.VI'[&!color=#-5000269]:0.018722335)[&!color=#-5000269,bootstraps=77]:0.00786974,('Ecnomus_volsellus_2_1_AUS.NS'[&!color=#-5000269]:1.2647627E-6,('Ecnomus_volsellus_1_1_AUS.NS'[&!color=#-5000269]:1.2647627E-6,'Ecnomus_sp._AMB-83_A1'[&!color=#-5000269]:1.0)[&!color=#-5000269,bootstraps="_1_1_"]:1.2647627E-6)[&!color=#-5000269,bootstraps=63]:0.0021634435)[&!color=#-5000269,bootstraps=100]:0.02062499)[&!color=#-5000269,bootstraps=94]:0.03797736)[&!color=#-5000269,bootstraps=36]:0.008720293)[&!color=#-5000269,bootstraps=57]:0.02463623)[&!color=#-5000269,bootstraps=18]:0.014613041)[&!color=#-5000269,bootstraps=15]:0.026477834)[&!color=#-5000269,bootstraps=55]:0.030126965)[&!color=#-5000269,bootstraps=28]:0.017115377)[&!color=#-5000269,bootstraps=5]:0.017052123)[&!color=#-5000269,bootstraps=16]:0.022722365)[&!color=#-5000269,bootstraps=18]:0.029504402)[&!color=#-5000269,bootstraps=57]:0.04590181)[&!color=#-5000269,bootstraps=32]:0.0321672)[&!color=#-5000269,bootstraps=23]:0.016642308)[&!color=#-5000269,bootstraps=39]:0.024637382)[&!color=#-5000269,bootstraps=36]:0.026128452)[&!color=#-5000269,bootstraps=96]:0.06658602,(((Cyrnellus_fraternus_10_1_DOM[&!color=#-5000269]:0.0055221887,'Cyrnellus_ulmeri_1_1_BRA.SP'[&!color=#-5000269]:0.005071193)[&!color=#-5000269,bootstraps=99]:0.12802233,(('Cyrnellus_mammillatus_1_1_BRA.MG'[&!color=#-5000269]:0.17770256,('Cyrnellus_OF_sp._GY2_1_1_GUY'[&!color=#-5000269]:1.2647627E-6,'Cyrnellus_OF_sp._GY1_1_1_GUY'[&!color=#-5000269]:0.001823316)[&!color=#-5000269,bootstraps=100]:0.13778765)[&!color=#-5000269,bootstraps=21]:0.011994618,((Cyrnellus_risi_1_1_VEN[&!color=#-5000269]:0.030521175,'Cyrnellus_OF_sp._GY1_2_1_GUY'[&!color=#-5000269]:0.012527248)[&!color=#-5000269,bootstraps=100]:0.18416525,(Cyrnellus_fraternus_12_1_NIC[&!color=#-5000269]:0.08816368,(Cyrnellus_fraternus_9_1_MD[&!color=#-5000269]:1.2647627E-6,(Cyrnellus_fraternus_11_1_[&!color=#-5000269]:1.2647627E-6,((Cyrnellus_fraternus_2_4_MD[&!color=#-5000269]:1.2647627E-6,Cyrnellus_fraternus_3_3_MD[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=12]:1.2647627E-6,(Cyrnellus_fraternus_7_1_FL[&!color=#-5000269]:0.0019335006,(Cyrnellus_fraternus_8_1_VA[&!color=#-5000269]:1.2647627E-6,(('Cyrnellus_fraternus_4_2_AR|FL'[&!color=#-5000269]:0.0019482966,Cyrnellus_fraternus_13_1_MD[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=11]:1.2647627E-6,(Cyrnellus_fraternus_5_1_OK[&!color=#-5000269]:0.0019814977,('Cyrnellus_fraternus_1_11_AR|AZ|FL|MS|OK'[&!color=#-5000269]:1.2647627E-6,Cyrnellus_fraternus_6_1_MI[&!color=#-5000269]:0.0019875607)[&!color=#-5000269,bootstraps=33]:1.2647627E-6)[&!color=#-5000269,bootstraps=57]:0.0019811352)[&!color=#-5000269,bootstraps=1]:1.2647627E-6)[&!color=#-5000269,bootstraps=0]:1.2647627E-6)[&!color=#-5000269,bootstraps=3]:1.2647627E-6)[&!color=#-5000269,bootstraps=14]:1.2647627E-6)[&!color=#-5000269,bootstraps=57]:0.002104109)[&!color=#-5000269,bootstraps=100]:0.09111289)[&!color=#-5000269,bootstraps=76]:0.06331817)[&!color=#-5000269,bootstraps=24]:0.038516823)[&!color=#-5000269,bootstraps=16]:0.02771166)[&!color=#-5000269,bootstraps=100]:0.30833298,(('Neureclipsis_napaea_1_1_AUS.NS'[&!color=#-5000269]:0.367043,((('Neureclipsis_bimaculata_1_7_FIN|DEU|MB|MN|POL|SWE'[&!color=#-5000269]:1.2647627E-6,Neureclipsis_bimaculata_2_1_SWE[&!color=#-5000269]:0.0038202237)[&!color=#-5000269,bootstraps=100]:0.11360136,('Neureclipsis_valida_1_7_MB|MN|ON'[&!color=#-5000269]:1.2647627E-6,'Neureclipsis_valida_2_4_MB|MN'[&!color=#-5000269]:0.0018891441)[&!color=#-5000269,bootstraps=100]:0.19443496)[&!color=#-5000269,bootstraps=93]:0.08405808,('Neucentropus_mandjuricus_1_2_RUS.|RUS.Khabarovsk_Territory'[&!color=#-5000269]:0.27591515,((Neureclipsis_crepuscularis_9_1_NB[&!color=#-5000269]:4.912444E-4,Neureclipsis_crepuscularis_1_16_NB[&!color=#-5000269]:0.0030277018)[&!color=#-5000269,bootstraps=100]:0.10946985,((Neureclipsis_melco_2_1_FL[&!color=#-5000269]:0.0046730763,Neureclipsis_melco_1_2_FL[&!color=#-5000269]:0.004121333)[&!color=#-5000269,bootstraps=100]:0.15765628,('Neureclipsis_crepuscularis_5_2_MD|NB'[&!color=#-5000269]:0.005311742,(Neureclipsis_crepuscularis_7_1_MB[&!color=#-5000269]:0.0016815101,((Neureclipsis_crepuscularis_3_7_MB[&!color=#-5000269]:1.2647627E-6,Neureclipsis_crepuscularis_8_1_MB[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=41]:1.2647627E-6,('Neureclipsis_crepuscularis_2_10_MB|MN|ON|WY'[&!color=#-5000269]:1.2647627E-6,(Neureclipsis_crepuscularis_6_1_FL[&!color=#-5000269]:0.0016660669,'Neureclipsis_crepuscularis_4_2_FL|VA'[&!color=#-5000269]:0.0016733275)[&!color=#-5000269,bootstraps=8]:1.2647627E-6)[&!color=#-5000269,bootstraps=62]:0.001683165)[&!color=#-5000269,bootstraps=25]:1.2647627E-6)[&!color=#-5000269,bootstraps=28]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.15111189)[&!color=#-5000269,bootstraps=95]:0.04518322)[&!color=#-5000269,bootstraps=97]:0.111857735)[&!color=#-5000269,bootstraps=55]:0.024301263)[&!color=#-5000269,bootstraps=96]:0.10801138)[&!color=#-5000269,bootstraps=85]:0.07578868,((('Nyctiophylax_OF_sp._GY1_1_1_GUY'[&!color=#-5000269]:0.4293608,(Cyrnus_flavidus_7_1_DEU[&!color=#-5000269]:1.2647627E-6,(Cyrnus_flavidus_6_1_POL[&!color=#-5000269]:1.2647627E-6,(Cyrnus_flavidus_2_1_NOR[&!color=#-5000269]:1.2647627E-6,((Cyrnus_flavidus_3_1_FIN[&!color=#-5000269]:0.0024464824,Cyrnus_flavidus_5_1_FIN[&!color=#-5000269]:0.0023454183)[&!color=#-5000269,bootstraps=26]:1.2647627E-6,(Cyrnus_flavidus_4_1_FIN[&!color=#-5000269]:0.0019498537,Cyrnus_flavidus_1_2_FIN[&!color=#-5000269]:0.010476118)[&!color=#-5000269,bootstraps=22]:0.009716565)[&!color=#-5000269,bootstraps=63]:1.2647627E-6)[&!color=#-5000269,bootstraps=39]:1.2647627E-6)[&!color=#-5000269,bootstraps=53]:0.006228998)[&!color=#-5000269,bootstraps=99]:0.17325407)[&!color=#-5000269,bootstraps=29]:0.05573087,(((Polycentropus_aspinosus_1_2_CHL[&!color=#-5000269]:0.017787801,Polycentropus_obtusus_1_1_CHL[&!color=#-5000269]:0.052443016)[&!color=#-5000269,bootstraps=100]:0.1513418,(Polycentropus_chilensis_2_1_ARG[&!color=#-5000269]:0.0024084991,Polycentropus_chilensis_1_1_CHL[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.16383275)[&!color=#-5000269,bootstraps=97]:0.1633659,((Polyplectropus_panamensis_1_1_CRI[&!color=#-5000269]:0.2153552,(('Paranyctiophylax_1_1_AUS.QL'[&!color=#-5000269]:0.008384702,('Polyplectropus_3_1_AUS.QL'[&!color=#-5000269]:1.2647627E-6,'Nyctiophylax_eidolonus_1_1_AUS.QL'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=99]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.21381605,('Polycentropodidae_6_1_AUS.VI'[&!color=#-5000269]:0.17250583,(('Paranyctiophylax_3_1_AUS.NS'[&!color=#-5000269]:0.0025041834,'Paranyctiophylax_2_1_AUS.NS'[&!color=#-5000269]:7.6089683E-4)[&!color=#-5000269,bootstraps=100]:0.15773284,('Paranyctiophylax_5_1_AUS.NS'[&!color=#-5000269]:0.070224985,('Polycentropodidae_7_1_AUS.NS'[&!color=#-5000269]:1.2647627E-6,'Paranyctiophylax_4_1_AUS.NS'[&!color=#-5000269]:0.0020326695)[&!color=#-5000269,bootstraps=100]:0.026663484)[&!color=#-5000269,bootstraps=99]:0.091017336)[&!color=#-5000269,bootstraps=64]:0.049902927)[&!color=#-5000269,bootstraps=36]:0.006557069)[&!color=#-5000269,bootstraps=81]:0.06393703)[&!color=#-5000269,bootstraps=17]:0.041435074,((('Plectrocnemia_wui_1_1_CHN.BJ'[&!color=#-5000269]:1.2647627E-6,'Plectrocnemia_sp09-4-1_1_1_CHN.SC'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=79]:1.2647627E-6,('Plectrocnemia_sp09-3_1_1_CHN.SC'[&!color=#-5000269]:1.2647627E-6,'Plectrocnemia_sp09-4-2_1_1_CHN.SC'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=97]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.15358874,(('Nyctiophylax_denningi_1_6_AL|MD|SC|TN'[&!color=#-5000269]:0.043409623,(Nyctiophylax_moestus_3_6_NB[&!color=#-5000269]:1.2647627E-6,((Nyctiophylax_moestus_6_1_NB[&!color=#-5000269]:0.0090649035,Nyctiophylax_moestus_9_1_NB[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=97]:0.0071867453,(('Nyctiophylax_moestus_1_12_NB|NS'[&!color=#-5000269]:1.2647627E-6,Nyctiophylax_1_6_NY[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=52]:1.2647627E-6,(Nyctiophylax_moestus_7_1_NB[&!color=#-5000269]:0.0034157608,(Nyctiophylax_moestus_8_1_NB[&!color=#-5000269]:0.003392418,('Nyctiophylax_moestus_2_9_MN|NB|ON'[&!color=#-5000269]:1.2647627E-6,(Nyctiophylax_moestus_5_3_NJ[&!color=#-5000269]:0.007215692,'Nyctiophylax_moestus_4_4_KY|MN|ON|TN'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=20]:0.0021554204)[&!color=#-5000269,bootstraps=37]:0.0043101073)[&!color=#-5000269,bootstraps=32]:1.2647627E-6)[&!color=#-5000269,bootstraps=17]:1.2647627E-6)[&!color=#-5000269,bootstraps=8]:1.2647627E-6)[&!color=#-5000269,bootstraps=18]:0.002145968)[&!color=#-5000269,bootstraps=77]:0.020433806)[&!color=#-5000269,bootstraps=98]:0.10328215,((Nyctiophylax_affinis_6_1_TN[&!color=#-5000269]:0.003628811,(Paranyctiophylax_affinis_1_1_VA[&!color=#-5000269]:1.2647627E-6,(Nyctiophylax_affinis_5_1_VA[&!color=#-5000269]:0.0044479254,'Nyctiophylax_affinis_2_2_FL|VA'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=39]:1.2647627E-6)[&!color=#-5000269,bootstraps=51]:0.0030892442)[&!color=#-5000269,bootstraps=99]:0.13166434,((('Nyctiophylax_banksi_1_2_NS|ON'[&!color=#-5000269]:0.070047766,(Nyctiophylax_serratus_2_1_LA[&!color=#-5000269]:1.2647627E-6,('Nyctiophylax_serratus_1_4_FL|VA'[&!color=#-5000269]:1.2647627E-6,(Nyctiophylax_serratus_3_1_VA[&!color=#-5000269]:1.2647627E-6,(Nyctiophylax_2_1_MD[&!color=#-5000269]:1.2647627E-6,Nyctiophylax_3_1_MD[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=95]:0.0022414464)[&!color=#-5000269,bootstraps=87]:0.0043819603)[&!color=#-5000269,bootstraps=69]:0.0042660213)[&!color=#-5000269,bootstraps=91]:0.02215962)[&!color=#-5000269,bootstraps=96]:0.06116714,(Nyctiophylax_uncus_1_3_NS[&!color=#-5000269]:0.07461946,(Nyctiophylax_affinis_7_1_Newfoundland_and_Labrador[&!color=#-5000269]:1.2647627E-6,('Nyctiophylax_affinis_1_6_MN|Newfoundland_and_Labrador'[&!color=#-5000269]:1.2647627E-6,(Nyctiophylax_affinis_3_1_[&!color=#-5000269]:0.007028439,(Nyctiophylax_affinis_4_1_MN[&!color=#-5000269]:0.002724025,Nyctiophylax_4_1_NY[&!color=#-5000269]:0.0024161327)[&!color=#-5000269,bootstraps=47]:1.2647627E-6)[&!color=#-5000269,bootstraps=13]:1.2647627E-6)[&!color=#-5000269,bootstraps=59]:0.0024302674)[&!color=#-5000269,bootstraps=99]:0.079738915)[&!color=#-5000269,bootstraps=42]:0.026831057)[&!color=#-5000269,bootstraps=30]:0.015779078,((Nyctiophylax_celta_3_1_TN[&!color=#-5000269]:1.2647627E-6,(Nyctiophylax_celta_2_1_MN[&!color=#-5000269]:0.0037383027,'Nyctiophylax_celta_1_5_AL|NB|TN'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=55]:0.0025359115)[&!color=#-5000269,bootstraps=100]:0.1317831,(Nyctiophylax_morsei_1_1_FL[&!color=#-5000269]:0.106565416,(Nyctiophylax_nephophilus_4_1_TN[&!color=#-5000269]:1.2647627E-6,(Nyctiophylax_nephophilus_6_1_TN[&!color=#-5000269]:0.0021039075,('Nyctiophylax_nephophilus_1_9_NC|TN'[&!color=#-5000269]:1.2647627E-6,('Nyctiophylax_nephophilus_2_2_SC|VA'[&!color=#-5000269]:0.0021004581,(Nyctiophylax_nephophilus_3_2_PA[&!color=#-5000269]:0.0020998863,(Nyctiophylax_nephophilus_5_1_NC[&!color=#-5000269]:0.004256467,Nyctiophylax_nephophilus_7_1_VA[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=85]:0.0042485166)[&!color=#-5000269,bootstraps=17]:1.2647627E-6)[&!color=#-5000269,bootstraps=5]:1.2647627E-6)[&!color=#-5000269,bootstraps=15]:1.2647627E-6)[&!color=#-5000269,bootstraps=63]:0.0021805842)[&!color=#-5000269,bootstraps=99]:0.07108747)[&!color=#-5000269,bootstraps=66]:0.040214106)[&!color=#-5000269,bootstraps=43]:0.03638842)[&!color=#-5000269,bootstraps=14]:0.030184723)[&!color=#-5000269,bootstraps=11]:1.2647627E-6)[&!color=#-5000269,bootstraps=65]:0.07495015)[&!color=#-5000269,bootstraps=30]:0.034477938)[&!color=#-5000269,bootstraps=8]:0.03956841)[&!color=#-5000269,bootstraps=3]:0.025312208)[&!color=#-5000269,bootstraps=1]:0.035856668,(('Polycentropodidae_5_1_AUS.NS'[&!color=#-5000269]:0.14280885,('Polycentropodidae_4_1_AUS.QL'[&!color=#-5000269]:0.010350846,'Polycentropodidae_3_1_AUS.QL'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.1543273)[&!color=#-5000269,bootstraps=100]:0.23285551,((((Polyplectropus_aiolos_1_2_THA[&!color=#-5000269]:0.35504657,(Cernotina_truncona_1_5_FL[&!color=#-5000269]:0.17655955,(Cernotina_spicata_1_1_VA[&!color=#-5000269]:0.22770892,(Cernotina_calcea_1_1_TN[&!color=#-5000269]:1.2647627E-6,(Cernotina_calcea_2_1_FL[&!color=#-5000269]:0.0017069976,Cernotina_calcea_3_1_FL[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.012552712)[&!color=#-5000269,bootstraps=100]:0.14751165)[&!color=#-5000269,bootstraps=97]:0.13774505)[&!color=#-5000269,bootstraps=100]:0.25478792)[&!color=#-5000269,bootstraps=41]:0.09038024,((('Polycentropus_interruptus_2_7_NB|NY|ON'[&!color=#-5000269]:0.003247253,((Polycentropus_interruptus_4_1_NB[&!color=#-5000269]:0.0068653338,Polycentropus_interruptus_5_1_ON[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=33]:1.2647627E-6,('Polycentropus_interruptus_1_14_BC|ON|WA'[&!color=#-5000269]:0.0032247375,'Polycentropus_interruptus_3_2_NY|ON'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=72]:0.0032746838)[&!color=#-5000269,bootstraps=21]:1.2647627E-6)[&!color=#-5000269,bootstraps=97]:0.083791494,((Polycentropus_flavus_6_1_ON[&!color=#-5000269]:1.2647627E-6,(Polycentropus_flavus_3_3_ON[&!color=#-5000269]:1.2647627E-6,Polycentropus_flavus_5_1_ON[&!color=#-5000269]:0.0020068353)[&!color=#-5000269,bootstraps=66]:0.0019187964)[&!color=#-5000269,bootstraps=97]:0.0121963555,('Polycentropus_flavus_1_22_AK|BC|NB|ON'[&!color=#-5000269]:1.2647627E-6,(Polycentropus_flavus_4_1_ON[&!color=#-5000269]:0.002098076,'Polycentropus_flavus_2_14_ON|WA'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=65]:0.0019586727)[&!color=#-5000269,bootstraps=43]:1.2647627E-6)[&!color=#-5000269,bootstraps=60]:0.035961114)[&!color=#-5000269,bootstraps=98]:0.10814141,('Holocentropus_dubius_1_2_DEU|NOR'[&!color=#-5000269]:0.22460383,((Holocentropus_picicornis_2_2_MN[&!color=#-5000269]:1.2647627E-6,Polycentropus_timesis_1_1_NH[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.14354253,(Holocentropus_insignis_1_1_FIN[&!color=#-5000269]:0.10683848,(Holocentropus_picicornis_4_1_FIN[&!color=#-5000269]:1.2647627E-6,('Holocentropus_picicornis_1_3_MNG|NOR'[&!color=#-5000269]:1.2647627E-6,Holocentropus_picicornis_3_1_NOR[&!color=#-5000269]:0.0031874583)[&!color=#-5000269,bootstraps=78]:0.0066218395)[&!color=#-5000269,bootstraps=80]:0.019668756)[&!color=#-5000269,bootstraps=90]:0.10067063)[&!color=#-5000269,bootstraps=77]:0.10588414)[&!color=#-5000269,bootstraps=40]:0.043812416)[&!color=#-5000269,bootstraps=96]:0.15173884)[&!color=#-5000269,bootstraps=8]:0.030588426,((Nyctiophylax_chiangmaiensis_1_2_THA[&!color=#-5000269]:1.2647627E-6,Nyctiophylax_tonngachang_1_1_THA[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.276558,(((Cyrnus_nipponicus_1_3_JPN[&!color=#-5000269]:0.0021243184,Cyrnus_nipponicus_2_1_JPN[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.21733852,(Cyrnus_insolutus_3_1_FIN[&!color=#-5000269]:0.0024752186,(Cyrnus_insolutus_2_1_FIN[&!color=#-5000269]:0.0021189244,'Cyrnus_insolutus_1_2_FIN|POL'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=56]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.13361205)[&!color=#-5000269,bootstraps=70]:0.050999336,((Cyrnus_fennicus_1_3_JPN[&!color=#-5000269]:1.2647627E-6,Cyrnus_fennicus_2_2_JPN[&!color=#-5000269]:0.0022675905)[&!color=#-5000269,bootstraps=100]:0.14413048,(Cyrnus_trimaculatus_7_1_DEU[&!color=#-5000269]:1.2647627E-6,('Cyrnus_trimaculatus_3_3_DEU|NOR'[&!color=#-5000269]:1.2647627E-6,('Cyrnus_trimaculatus_2_3_DEU|SWE'[&!color=#-5000269]:0.0023567362,(Cyrnus_trimaculatus_5_1_AUT[&!color=#-5000269]:0.004591733,('Cyrnus_trimaculatus_1_7_AUT|FIN|NOR'[&!color=#-5000269]:1.2647627E-6,('Cyrnus_trimaculatus_4_3_DEU|SVN'[&!color=#-5000269]:0.011523903,Cyrnus_trimaculatus_6_1_AUT[&!color=#-5000269]:0.0022435219)[&!color=#-5000269,bootstraps=29]:1.2647627E-6)[&!color=#-5000269,bootstraps=12]:1.2647627E-6)[&!color=#-5000269,bootstraps=56]:0.0047554253)[&!color=#-5000269,bootstraps=4]:1.2647627E-6)[&!color=#-5000269,bootstraps=35]:0.0023876545)[&!color=#-5000269,bootstraps=99]:0.12942451)[&!color=#-5000269,bootstraps=99]:0.107317336)[&!color=#-5000269,bootstraps=86]:0.060144)[&!color=#-5000269,bootstraps=8]:0.016997773)[&!color=#-5000269,bootstraps=3]:0.02547455,(((Polycentropus_quadriappendiculatus_3_1_ARG[&!color=#-5000269]:1.2647627E-6,(Polycentropus_quadriappendiculatus_2_1_CHL[&!color=#-5000269]:1.2647627E-6,Polycentropus_quadriappendiculatus_1_1_CHL[&!color=#-5000269]:0.0029199051)[&!color=#-5000269,bootstraps=100]:0.021661283)[&!color=#-5000269,bootstraps=100]:0.22538593,(Nyctiophylax_neotropicalis_3_1_GUY[&!color=#-5000269]:0.23667295,('Nyctiophylax_neotropicalis_2_1_BRA.MG'[&!color=#-5000269]:0.08246332,'Nyctiophylax_neotropicalis_1_1_BRA.RJ'[&!color=#-5000269]:0.10115596)[&!color=#-5000269,bootstraps=98]:0.08118196)[&!color=#-5000269,bootstraps=96]:0.15724342)[&!color=#-5000269,bootstraps=24]:0.055979557,((('Nyctiophylax_n._sp._1_1_AUS.NS'[&!color=#-5000269]:1.2647627E-6,'Polycentropodidae_1_2_AUS.VI'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.2539683,((Plectrocnemia_maclachlani_1_1_NZL[&!color=#-5000269]:1.2647627E-6,Plectrocnemia_maclachlani_2_1_NZL[&!color=#-5000269]:0.008317557)[&!color=#-5000269,bootstraps=100]:0.22871056,('Plectrocnemia_3_2_AUS.NS'[&!color=#-5000269]:0.07238902,(('Plectrocnemia_lacuna_1_1_AUS.NS'[&!color=#-5000269]:0.0067629893,'Plectrocnemia_4_1_AUS.NS'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=93]:0.015427947,(('Plectrocnemia_8_1_AUS.VI'[&!color=#-5000269]:0.03293375,'Plectrocnemia_9_1_AUS.VI'[&!color=#-5000269]:0.020875812)[&!color=#-5000269,bootstraps=8]:1.2647627E-6,('Plectrocnemia_6_1_AUS.VI'[&!color=#-5000269]:0.0807356,('Plectrocnemia_altera_2_1_AUS.TS'[&!color=#-5000269]:0.0044250786,'Plectrocnemia_altera_1_1_AUS.TS'[&!color=#-5000269]:0.004540024)[&!color=#-5000269,bootstraps=60]:0.003233273)[&!color=#-5000269,bootstraps=30]:0.0069612903)[&!color=#-5000269,bootstraps=30]:0.007498142)[&!color=#-5000269,bootstraps=36]:0.007961948)[&!color=#-5000269,bootstraps=100]:0.20335506)[&!color=#-5000269,bootstraps=42]:0.071819946)[&!color=#-5000269,bootstraps=10]:0.026679771,((('Polycentropus_nascotius_1_6_FL|MS|NC|NJ'[&!color=#-5000269]:0.006203821,Polycentropus_nascotius_2_3_FL[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.15446599,((Polycentropus_iculus_2_1_MN[&!color=#-5000269]:1.2647627E-6,'Polycentropus_iculus_1_4_NB|NY'[&!color=#-5000269]:0.0035284203)[&!color=#-5000269,bootstraps=100]:0.111632995,((Polycentropus_albipunctus_3_1_NB[&!color=#-5000269]:0.0043191765,('Polycentropus_albipunctus_2_2_ON|PE'[&!color=#-5000269]:0.0020252643,'Polycentropus_albipunctus_1_2_NB|ON'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=63]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.095518894,(((Polycentropus_smithae_1_1_AK[&!color=#-5000269]:0.0033575238,Polycentropus_smithae_2_1_BC[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=61]:0.0034151648,(Polycentropus_smithae_3_1_Newfoundland_and_Labrador[&!color=#-5000269]:1.2647627E-6,'Polycentropus_sp._CHU1_1_1_MB'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=80]:1.2647627E-6)[&!color=#-5000269,bootstraps=99]:0.092986204,(('Polycentropus_remotus_1_3_MN|NJ'[&!color=#-5000269]:1.2647627E-6,Polycentropus_remotus_2_1_MN[&!color=#-5000269]:0.0066506546)[&!color=#-5000269,bootstraps=51]:1.2647627E-6,(Polycentropus_remotus_3_1_Newfoundland_and_Labrador[&!color=#-5000269]:1.2647627E-6,(Polycentropus_remotus_4_1_ON[&!color=#-5000269]:0.0031089848,Polycentropus_remotus_5_1_AB[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=98]:0.016606435)[&!color=#-5000269,bootstraps=64]:0.0032814874)[&!color=#-5000269,bootstraps=100]:0.12993315)[&!color=#-5000269,bootstraps=31]:0.032637548)[&!color=#-5000269,bootstraps=7]:1.2647627E-6)[&!color=#-5000269,bootstraps=53]:0.03980154)[&!color=#-5000269,bootstraps=97]:0.11756069,(((Polyplectropus_beccus_1_1_VEN[&!color=#-5000269]:0.33639678,((Polyplectropus_santiago_1_3_TX[&!color=#-5000269]:0.017855657,Polyplectropus_santiago_2_1_TX[&!color=#-5000269]:0.015319907)[&!color=#-5000269,bootstraps=69]:0.05240927,(Polyplectropus_robacki_1_2_ECU[&!color=#-5000269]:0.10786785,(Polyplectropus_bravoae_1_1_CRI[&!color=#-5000269]:0.022537684,Polycentropus_zurqui_2_1_CRI[&!color=#-5000269]:0.08042539)[&!color=#-5000269,bootstraps=97]:0.11571092)[&!color=#-5000269,bootstraps=62]:0.03308309)[&!color=#-5000269,bootstraps=96]:0.11407577)[&!color=#-5000269,bootstraps=46]:0.07718826,(('Polyplectropus_profaupar_1_1_BRA.SC'[&!color=#-5000269]:0.123779625,'Polyplectropus_KMK_sp._1_1_BRA.MG'[&!color=#-5000269]:0.11808566)[&!color=#-5000269,bootstraps=31]:0.018407153,((Polyplectropus_hymenochilus_1_1_CRI[&!color=#-5000269]:0.17706744,Polyplectropus_mignonae_1_1_CRI[&!color=#-5000269]:0.17016475)[&!color=#-5000269,bootstraps=88]:0.14999075,((Polyplectropus_charlesi_1_3_TX[&!color=#-5000269]:0.002703238,Polyplectropus_charlesi_2_1_AZ[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.089280255,(Polyplectropus_denticulus_1_1_CRI[&!color=#-5000269]:0.108395845,(Polyplectropus_deltoides_1_1_CRI[&!color=#-5000269]:0.042899042,(Polyplectropus_pugiunculatus_1_1_TTO[&!color=#-5000269]:0.028605687,Polyplectropus_yolandae_1_1_CRI[&!color=#-5000269]:0.12947041)[&!color=#-5000269,bootstraps=66]:0.030186282)[&!color=#-5000269,bootstraps=65]:0.061760984)[&!color=#-5000269,bootstraps=28]:0.02251587)[&!color=#-5000269,bootstraps=50]:0.0033860474)[&!color=#-5000269,bootstraps=30]:0.06474043)[&!color=#-5000269,bootstraps=12]:0.023178399)[&!color=#-5000269,bootstraps=9]:0.08408097,(((('Plectrocnemia_tortosa_1_1_CHN.SC'[&!color=#-5000269]:0.0073309657,'Plectrocnemia_tortosa_2_1_CHN.SC'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.062463067,('Plectrocnemia_5_1_CHN.YN'[&!color=#-5000269]:0.0074547506,('Plectrocnemia_HZ_n._sp._2_1_4_CHN.SC'[&!color=#-5000269]:0.0020145641,'Plectrocnemia_HZ_n._sp._2_2_1_CHN.SC'[&!color=#-5000269]:0.005119145)[&!color=#-5000269,bootstraps=98]:0.0066899015)[&!color=#-5000269,bootstraps=100]:0.09512462)[&!color=#-5000269,bootstraps=97]:0.12453214,((Polycentropus_denningi_1_4_WA[&!color=#-5000269]:1.2647627E-6,Polycentropus_denningi_2_1_OR[&!color=#-5000269]:0.0033309322)[&!color=#-5000269,bootstraps=100]:0.16280504,(((Polycentropus_barri_1_1_WV[&!color=#-5000269]:0.023900727,(Polycentropus_colei_3_1_NC[&!color=#-5000269]:0.013043666,('Polycentropus_sp._2_1_NC'[&!color=#-5000269]:0.003931662,Polycentropus_colei_1_2_NC[&!color=#-5000269]:0.0053462232)[&!color=#-5000269,bootstraps=99]:0.022266695)[&!color=#-5000269,bootstraps=68]:0.0078067337)[&!color=#-5000269,bootstraps=95]:0.049657546,(Polycentropus_rickeri_3_1_NC[&!color=#-5000269]:0.043552764,(Polycentropus_rickeri_2_1_TN[&!color=#-5000269]:1.2647627E-6,(Polycentropus_colei_2_1_NC[&!color=#-5000269]:1.2647627E-6,Polycentropus_rickeri_1_1_VA[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=97]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.044582937)[&!color=#-5000269,bootstraps=85]:0.05195554)[&!color=#-5000269,bootstraps=42]:0.012556953,(((('Polycentropus_clinei_2_2_NH|NJ'[&!color=#-5000269]:1.2647627E-6,'Polycentropus_clinei_1_6_NH|NJ|Newfoundland_and_Labrador|ON|WV'[&!color=#-5000269]:0.005736146)[&!color=#-5000269,bootstraps=98]:0.033453442,(Polycentropus_weedi_4_1_NB[&!color=#-5000269]:1.2647627E-6,('Polycentropus_weedi_1_2_MN|NB'[&!color=#-5000269]:0.0022690354,('Polycentropus_weedi_2_2_NB|ON'[&!color=#-5000269]:1.2647627E-6,Polycentropus_weedi_3_1_NS[&!color=#-5000269]:0.0026554049)[&!color=#-5000269,bootstraps=37]:1.2647627E-6)[&!color=#-5000269,bootstraps=94]:0.006890583)[&!color=#-5000269,bootstraps=99]:0.04007382)[&!color=#-5000269,bootstraps=95]:0.08848178,(('Polycentropus_aureolus_3_3_BC|MB'[&!color=#-5000269]:0.0023867483,(Polycentropus_aureolus_2_8_MB[&!color=#-5000269]:0.0023876869,'Polycentropus_aureolus_1_22_AB|MB|MN|NB|NH|NS|PE'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=60]:1.2647627E-6)[&!color=#-5000269,bootstraps=96]:0.036591247,(Polycentropus_crassicornis_4_1_MB[&!color=#-5000269]:1.2647627E-6,(Polycentropus_crassicornis_3_1_ON[&!color=#-5000269]:1.2647627E-6,(Polycentropus_crassicornis_2_1_NH[&!color=#-5000269]:0.0067267376,'Polycentropus_crassicornis_1_2_ON|TN'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=45]:0.0021235233)[&!color=#-5000269,bootstraps=48]:0.0044120313)[&!color=#-5000269,bootstraps=99]:0.047151)[&!color=#-5000269,bootstraps=95]:0.064362004)[&!color=#-5000269,bootstraps=31]:0.034066025,(((Plectrocnemia_laetabilis_4_1_PRT[&!color=#-5000269]:0.0015283038,(Plectrocnemia_laetabilis_1_2_ESP[&!color=#-5000269]:1.2647627E-6,Plectrocnemia_laetabilis_3_1_ESP[&!color=#-5000269]:0.032802027)[&!color=#-5000269,bootstraps=43]:0.004658387)[&!color=#-5000269,bootstraps=99]:0.06234434,(Plectrocnemia_scruposa_4_1_ESP[&!color=#-5000269]:1.2647627E-6,(Plectrocnemia_scruposa_2_1_ESP[&!color=#-5000269]:0.0034752493,Plectrocnemia_scruposa_1_2_ESP[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=57]:0.007097916)[&!color=#-5000269,bootstraps=90]:0.021505626)[&!color=#-5000269,bootstraps=62]:0.02322975,((Plectrocnemia_geniculata_5_1_FRA[&!color=#-5000269]:0.015470714,(Plectrocnemia_geniculata_3_1_FRA[&!color=#-5000269]:0.012693357,(Plectrocnemia_geniculata_4_1_ESP[&!color=#-5000269]:0.010411375,Plectrocnemia_geniculata_1_5_AUT[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=54]:5.17622E-5)[&!color=#-5000269,bootstraps=58]:0.0047381837)[&!color=#-5000269,bootstraps=100]:0.12960073,((Plectrocnemia_brevis_2_1_AUT[&!color=#-5000269]:0.029349906,Plectrocnemia_brevis_1_1_GRC[&!color=#-5000269]:0.026888212)[&!color=#-5000269,bootstraps=100]:0.05745485,((Plectrocnemia_conspersa_2_1_NOR[&!color=#-5000269]:0.0032692144,(Plectrocnemia_conspersa_3_1_FIN[&!color=#-5000269]:0.0066025876,'Plectrocnemia_conspersa_1_13_AUT|CZE|FIN|DEU|NOR'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=84]:0.004137613)[&!color=#-5000269,bootstraps=26]:3.3010333E-4,(Plectrocnemia_conjuncta_1_1_FIN[&!color=#-5000269]:0.028164951,(Plectrocnemia_geniculata_7_1_ESP[&!color=#-5000269]:1.2647627E-6,(Plectrocnemia_geniculata_2_2_ESP[&!color=#-5000269]:0.0020965321,(Plectrocnemia_geniculata_6_1_ESP[&!color=#-5000269]:0.0021362088,Plectrocnemia_geniculata_8_1_ESP[&!color=#-5000269]:0.002122621)[&!color=#-5000269,bootstraps=23]:1.2647627E-6)[&!color=#-5000269,bootstraps=64]:0.0021307187)[&!color=#-5000269,bootstraps=67]:0.0022706182)[&!color=#-5000269,bootstraps=10]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.05226834)[&!color=#-5000269,bootstraps=94]:0.04042956)[&!color=#-5000269,bootstraps=55]:0.005621523)[&!color=#-5000269,bootstraps=63]:0.044942703)[&!color=#-5000269,bootstraps=59]:0.06474168)[&!color=#-5000269,bootstraps=41]:0.04741826)[&!color=#-5000269,bootstraps=31]:0.011361257)[&!color=#-5000269,bootstraps=69]:0.07469146,(('Plectrocnemia_HZ_n._sp._8_1_1_CHN.SC'[&!color=#-5000269]:0.27879164,('Polycentropus_variegatus_1_4_OR|WA'[&!color=#-5000269]:0.0019667053,('Polycentropus_variegatus_2_3_CA|WA'[&!color=#-5000269]:0.005971202,(Polycentropus_variegatus_4_1_WA[&!color=#-5000269]:0.0019543986,('Polycentropus_variegatus_3_2_MT|OR'[&!color=#-5000269]:1.2647627E-6,Polycentropus_halidus_3_1_UT[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=16]:1.2647627E-6)[&!color=#-5000269,bootstraps=26]:1.2647627E-6)[&!color=#-5000269,bootstraps=36]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.16554588)[&!color=#-5000269,bootstraps=12]:0.034567803,(Polycentropus_similis_1_1_PNG[&!color=#-5000269]:0.23992126,(('Polyplectropus_1_3_AUS.QL'[&!color=#-5000269]:0.394655,(Polycentropus_brongus_1_1_GHA[&!color=#-5000269]:0.32626715,(('Polycentropus_OF_sp._JP1_1_1_JPN'[&!color=#-5000269]:0.09003783,'Polyplectropus_sp._1_1_THA'[&!color=#-5000269]:0.25345275)[&!color=#-5000269,bootstraps=39]:0.043983106,(Polycentropus_admin_1_1_THA[&!color=#-5000269]:0.2962143,(('Polyplectropus_acutus_1_1_CHN.JX'[&!color=#-5000269]:0.12149154,'Polyplectropus_2_1_CHN.GX'[&!color=#-5000269]:0.11092077)[&!color=#-5000269,bootstraps=82]:0.07758263,('Polyplectropus_nanjingensis_1_1_CHN.JS'[&!color=#-5000269]:0.13400687,'Polyplectropus_convexus_1_1_CHN.SC'[&!color=#-5000269]:0.09330231)[&!color=#-5000269,bootstraps=43]:0.042274456)[&!color=#-5000269,bootstraps=46]:0.035884023)[&!color=#-5000269,bootstraps=37]:0.030764876)[&!color=#-5000269,bootstraps=53]:0.061089642)[&!color=#-5000269,bootstraps=42]:0.053409178)[&!color=#-5000269,bootstraps=20]:0.016890064,(((('Plectrocnemia_OF_sp._jpb_1_1_JPN'[&!color=#-5000269]:1.2647627E-6,Plectrocnemia_banksi_1_1_JPN[&!color=#-5000269]:0.0019940392)[&!color=#-5000269,bootstraps=100]:0.14729895,(Plectrocnemia_wui_2_1_MNG[&!color=#-5000269]:0.0055240006,'Plectrocnemia_wui_3_1_RUS.'[&!color=#-5000269]:0.02863098)[&!color=#-5000269,bootstraps=100]:0.12753299)[&!color=#-5000269,bootstraps=71]:0.03319675,((('Plectrocnemia_sp09-5-1_1_1_CHN.SC'[&!color=#-5000269]:1.2647627E-6,('Plectrocnemia_ondakeana_1_10_CHN.SC'[&!color=#-5000269]:1.2647627E-6,'Plectrocnemia_sp09-5-3_1_1_CHN.SC'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.10382071,('Plectrocnemia_1_2_CHN.GD'[&!color=#-5000269]:0.013512927,(('Plectrocnemia_2_2_CHN.GD'[&!color=#-5000269]:1.2647627E-6,'Plectrocnemia_hoenei_1_3_CHN.GX'[&!color=#-5000269]:0.0032961457)[&!color=#-5000269,bootstraps=99]:0.02887828,(Plectrocnemia_7_1_JPN[&!color=#-5000269]:0.08451398,(Plectrocnemia_kusnezovi_1_4_MNG[&!color=#-5000269]:1.2647627E-6,Plectrocnemia_kusnezovi_2_1_MNG[&!color=#-5000269]:0.006216687)[&!color=#-5000269,bootstraps=97]:0.0419463)[&!color=#-5000269,bootstraps=90]:0.07429578)[&!color=#-5000269,bootstraps=22]:0.0049167047)[&!color=#-5000269,bootstraps=94]:0.0908017)[&!color=#-5000269,bootstraps=85]:0.07548556,(((Polycentropus_cinereus_16_1_FL[&!color=#-5000269]:9.615226E-4,(Polycentropus_cinereus_13_1_ON[&!color=#-5000269]:0.013019616,Polycentropus_cinereus_30_1_FL[&!color=#-5000269]:0.0062103886)[&!color=#-5000269,bootstraps=67]:0.0077186082)[&!color=#-5000269,bootstraps=100]:0.06730717,(((Polycentropus_cinereus_20_1_NS[&!color=#-5000269]:1.2647627E-6,Polycentropus_8_1_MD[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=96]:0.0021517572,(Polycentropus_cinereus_21_1_NC[&!color=#-5000269]:0.0041503273,(Polycentropus_cinereus_19_1_NC[&!color=#-5000269]:0.00203761,Polycentropus_cinereus_9_2_VA[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=47]:1.2647627E-6)[&!color=#-5000269,bootstraps=30]:1.2647627E-6)[&!color=#-5000269,bootstraps=99]:0.050491035,((Polycentropus_14_1_MD[&!color=#-5000269]:1.2647627E-6,Polycentropus_17_1_MD[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=94]:1.2647627E-6,(Polycentropus_cinereus_17_1_TN[&!color=#-5000269]:1.2647627E-6,(Polycentropus_20_1_MD[&!color=#-5000269]:1.2647627E-6,(Polycentropus_cinereus_18_1_WV[&!color=#-5000269]:1.2647627E-6,Polycentropus_9_1_MD[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=75]:1.2647627E-6)[&!color=#-5000269,bootstraps=90]:0.0059914254)[&!color=#-5000269,bootstraps=34]:0.002114714)[&!color=#-5000269,bootstraps=98]:0.051637486)[&!color=#-5000269,bootstraps=90]:0.018393915)[&!color=#-5000269,bootstraps=99]:0.08291144,((((Polycentropus_cinereus_15_1_MN[&!color=#-5000269]:0.074063554,(Polycentropus_cinereus_24_1_FL[&!color=#-5000269]:0.004030874,Polycentropus_cinereus_23_1_FL[&!color=#-5000269]:0.002334677)[&!color=#-5000269,bootstraps=81]:0.02755845)[&!color=#-5000269,bootstraps=38]:0.0044067064,(Polycentropus_cinereus_26_1_TN[&!color=#-5000269]:1.2647627E-6,(('Polycentropus_cinereus_4_14_NB|TN'[&!color=#-5000269]:1.2647627E-6,Polycentropus_cinereus_25_1_NB[&!color=#-5000269]:0.0021802685)[&!color=#-5000269,bootstraps=88]:0.0043620584,('Polycentropus_cinereus_5_6_AL|GA|NB|NJ'[&!color=#-5000269]:1.2647627E-6,(Polycentropus_15_1_MD[&!color=#-5000269]:1.2647627E-6,Polycentropus_cinereus_27_1_NJ[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=61]:0.0020969752)[&!color=#-5000269,bootstraps=29]:1.2647627E-6)[&!color=#-5000269,bootstraps=53]:0.002095869)[&!color=#-5000269,bootstraps=100]:0.074471466)[&!color=#-5000269,bootstraps=59]:0.020392869,(Polycentropus_4_1_MD[&!color=#-5000269]:1.2647627E-6,(Polycentropus_21_1_MD[&!color=#-5000269]:1.2647627E-6,(Polycentropus_cinereus_11_1_FL[&!color=#-5000269]:0.006696446,(Polycentropus_13_1_MD[&!color=#-5000269]:1.2647627E-6,(Polycentropus_cinereus_12_1_FL[&!color=#-5000269]:1.2647627E-6,(Polycentropus_18_1_MD[&!color=#-5000269]:1.2647627E-6,(Polycentropus_16_1_MD[&!color=#-5000269]:1.2647627E-6,Polycentropus_3_1_MD[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=69]:1.2647627E-6)[&!color=#-5000269,bootstraps=50]:1.2647627E-6)[&!color=#-5000269,bootstraps=50]:0.0017934786)[&!color=#-5000269,bootstraps=36]:1.2647627E-6)[&!color=#-5000269,bootstraps=24]:0.002566752)[&!color=#-5000269,bootstraps=7]:1.2647627E-6)[&!color=#-5000269,bootstraps=99]:0.02871337)[&!color=#-5000269,bootstraps=62]:0.01730376,(Polycentropus_cinereus_14_1_NB[&!color=#-5000269]:1.2647627E-6,(Polycentropus_cinereus_1_47_NB[&!color=#-5000269]:1.2647627E-6,(Polycentropus_cinereus_2_26_NB[&!color=#-5000269]:1.2647627E-6,((Polycentropus_cinereus_6_5_NB[&!color=#-5000269]:1.2647627E-6,Polycentropus_cinereus_10_1_MD[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=43]:0.0054095434,(Polycentropus_cinereus_28_1_NB[&!color=#-5000269]:0.004124332,('Polycentropus_cinereus_7_4_NB|ON'[&!color=#-5000269]:1.2647627E-6,(Polycentropus_cinereus_8_3_MN[&!color=#-5000269]:0.0040663946,('Polycentropus_cinereus_3_17_AB|MB|MN|ON'[&!color=#-5000269]:1.2647627E-6,(Polycentropus_cinereus_29_1_WA[&!color=#-5000269]:1.2647627E-6,Polycentropus_cinereus_22_1_ON[&!color=#-5000269]:0.008431452)[&!color=#-5000269,bootstraps=80]:0.0106449565)[&!color=#-5000269,bootstraps=9]:1.2647627E-6)[&!color=#-5000269,bootstraps=40]:0.0020228168)[&!color=#-5000269,bootstraps=8]:1.2647627E-6)[&!color=#-5000269,bootstraps=19]:0.0019730444)[&!color=#-5000269,bootstraps=41]:5.8238413E-5)[&!color=#-5000269,bootstraps=41]:0.0020388975)[&!color=#-5000269,bootstraps=43]:0.0022254717)[&!color=#-5000269,bootstraps=100]:0.08279502)[&!color=#-5000269,bootstraps=99]:0.07332138)[&!color=#-5000269,bootstraps=77]:0.06634446)[&!color=#-5000269,bootstraps=36]:0.020896878)[&!color=#-5000269,bootstraps=92]:0.10161071,((((Polycentropus_insularis_1_1_GRD[&!color=#-5000269]:0.10883737,(Polycentropus_cuspidatus_1_1_ECU[&!color=#-5000269]:0.15091483,Polycentropus_altmani_1_2_VEN[&!color=#-5000269]:0.12940124)[&!color=#-5000269,bootstraps=53]:0.026297472)[&!color=#-5000269,bootstraps=38]:0.039283045,(Polycentropus_unispina_1_3_COL[&!color=#-5000269]:0.090031534,(Polycentropus_connatus_1_1_VEN[&!color=#-5000269]:0.11300286,(Polycentropus_meridiensis_1_1_VEN[&!color=#-5000269]:0.017664185,(Polycentropus_meridiensis_2_1_VEN[&!color=#-5000269]:0.0054999716,Polycentropus_meridiensis_3_1_VEN[&!color=#-5000269]:0.007304171)[&!color=#-5000269,bootstraps=93]:0.0044878894)[&!color=#-5000269,bootstraps=96]:0.05813617)[&!color=#-5000269,bootstraps=80]:0.04480539)[&!color=#-5000269,bootstraps=77]:0.07156408)[&!color=#-5000269,bootstraps=14]:0.037146967,(((((Polycentropus_11_1_MEX[&!color=#-5000269]:0.0019633183,Polycentropus_12_1_MEX[&!color=#-5000269]:0.0019004508)[&!color=#-5000269,bootstraps=68]:1.2647627E-6,(Polycentropus_10_1_MEX[&!color=#-5000269]:0.0018376794,(Polycentropus_mexicanus_1_48_MEX[&!color=#-5000269]:1.2647627E-6,Polycentropus_1_43_MEX[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=58]:1.2647627E-6)[&!color=#-5000269,bootstraps=67]:1.2647627E-6)[&!color=#-5000269,bootstraps=91]:1.2647627E-6,(Polycentropus_mexicanus_2_3_MEX[&!color=#-5000269]:0.0016849886,((Polycentropus_arizonensis_3_1_MEX[&!color=#-5000269]:1.2647627E-6,Polycentropus_2_10_MEX[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.012805068,(Polycentropus_arizonensis_2_1_AZ[&!color=#-5000269]:1.2647627E-6,Polycentropus_arizonensis_1_4_AZ[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.0086136265)[&!color=#-5000269,bootstraps=73]:0.015324415)[&!color=#-5000269,bootstraps=59]:0.014265372)[&!color=#-5000269,bootstraps=100]:0.1598218,(Polycentropus_exsertus_1_1_PER[&!color=#-5000269]:0.12405221,(Polycentropus_cressae_1_1_VEN[&!color=#-5000269]:0.11416285,(Polycentropus_joergenseni_4_1_PER[&!color=#-5000269]:0.039757695,(Polycentropus_joergenseni_1_4_VEN[&!color=#-5000269]:0.032464545,(Polycentropus_joergenseni_2_1_ECU[&!color=#-5000269]:0.016963864,Polycentropus_joergenseni_3_1_ECU[&!color=#-5000269]:0.0077737626)[&!color=#-5000269,bootstraps=91]:0.01759697)[&!color=#-5000269,bootstraps=26]:0.007067419)[&!color=#-5000269,bootstraps=98]:0.112310946)[&!color=#-5000269,bootstraps=6]:0.014536466)[&!color=#-5000269,bootstraps=13]:0.03520968)[&!color=#-5000269,bootstraps=4]:0.03491942,((Polycentropus_volcanus_1_2_CRI[&!color=#-5000269]:0.049061295,(Polycentropus_guatemalensis_1_2_NIC[&!color=#-5000269]:0.05337705,('Polycentropus_halidus_1_7_AZ|CO|NM|TX'[&!color=#-5000269]:0.0018355525,'Polycentropus_halidus_2_5_AZ|CO|NM'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.0945059)[&!color=#-5000269,bootstraps=44]:0.013848705)[&!color=#-5000269,bootstraps=85]:0.0369609,((((Polycentropus_digitus_1_2_CRI[&!color=#-5000269]:0.11194071,(Polycentropus_fortispinus_2_1_CRI[&!color=#-5000269]:1.2647627E-6,Polycentropus_fortispinus_1_1_CRI[&!color=#-5000269]:0.002509242)[&!color=#-5000269,bootstraps=100]:0.2110545)[&!color=#-5000269,bootstraps=40]:0.032050837,(Polycentropus_picana_3_1_TX[&!color=#-5000269]:1.2647627E-6,(Polycentropus_picana_2_2_TX[&!color=#-5000269]:1.2647627E-6,Polycentropus_picana_1_2_TX[&!color=#-5000269]:0.003610844)[&!color=#-5000269,bootstraps=25]:0.0017620147)[&!color=#-5000269,bootstraps=100]:0.0948853)[&!color=#-5000269,bootstraps=32]:0.040951356,(Polycentropus_mayanus_2_1_CRI[&!color=#-5000269]:0.07463297,((Polycentropus_mayanus_1_1_CRI[&!color=#-5000269]:0.0028925706,Polycentropus_digitus_2_1_CRI[&!color=#-5000269]:0.0031734018)[&!color=#-5000269,bootstraps=99]:0.05725613,((Polycentropus_ceciliae_2_1_VEN[&!color=#-5000269]:0.0030723296,Polycentropus_ceciliae_1_1_VEN[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=99]:0.014502409,(Polycentropus_fasthi_1_3_CRI[&!color=#-5000269]:0.029736359,Polycentropus_dentoides_1_1_CRI[&!color=#-5000269]:0.020239431)[&!color=#-5000269,bootstraps=78]:0.0097734425)[&!color=#-5000269,bootstraps=92]:0.034907166)[&!color=#-5000269,bootstraps=23]:0.005392786)[&!color=#-5000269,bootstraps=96]:0.094068356)[&!color=#-5000269,bootstraps=7]:0.0026689596,(((Polycentropus_nebulosus_1_1_CRI[&!color=#-5000269]:0.013405927,(Polycentropus_phraterus_1_2_CRI[&!color=#-5000269]:1.2647627E-6,Polycentropus_fortunus_1_1_CRI[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.13695017,(Polycentropus_zurqui_1_1_CRI[&!color=#-5000269]:0.05700099,(Polycentropus_garfio_1_3_CRI[&!color=#-5000269]:0.007087743,(Polycentropus_spicatus_1_1_CRI[&!color=#-5000269]:1.2647627E-6,Polycentropus_spicatus_2_1_CRI[&!color=#-5000269]:0.0058615543)[&!color=#-5000269,bootstraps=90]:0.0059371525)[&!color=#-5000269,bootstraps=84]:0.024296187)[&!color=#-5000269,bootstraps=87]:0.08077027)[&!color=#-5000269,bootstraps=50]:0.053354576,((Polycentropus_gertschi_2_1_AZ[&!color=#-5000269]:0.0058429455,Polycentropus_gertschi_1_3_AZ[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.050241053,(Polycentropus_aztecus_2_4_AZ[&!color=#-5000269]:0.010590554,((Polycentropus_aztecus_1_12_MEX[&!color=#-5000269]:1.2647627E-6,Polycentropus_23_1_MEX[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=99]:0.003850793,(Polycentropus_aztecus_4_1_MEX[&!color=#-5000269]:0.0025646628,(Polycentropus_aztecus_5_1_MEX[&!color=#-5000269]:0.0025231598,Polycentropus_aztecus_3_2_MEX[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=44]:1.2647627E-6)[&!color=#-5000269,bootstraps=64]:0.0050353273)[&!color=#-5000269,bootstraps=77]:0.0069651143)[&!color=#-5000269,bootstraps=99]:0.042268395)[&!color=#-5000269,bootstraps=97]:0.06974265)[&!color=#-5000269,bootstraps=33]:0.034607515)[&!color=#-5000269,bootstraps=7]:0.01715556)[&!color=#-5000269,bootstraps=37]:0.062196895)[&!color=#-5000269,bootstraps=4]:0.017205292)[&!color=#-5000269,bootstraps=14]:0.046942383,((((Polycentropus_floridensis_1_1_FL[&!color=#-5000269]:0.153827,(('Polycentropus_centralis_2_3_KY|PA|TN'[&!color=#-5000269]:0.0019590491,Polycentropus_centralis_5_1_NS[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=71]:1.2647627E-6,(Polycentropus_centralis_3_1_IL[&!color=#-5000269]:0.006178064,(Polycentropus_centralis_1_3_NS[&!color=#-5000269]:1.2647627E-6,Polycentropus_centralis_4_1_NB[&!color=#-5000269]:0.0019473692)[&!color=#-5000269,bootstraps=87]:0.003956351)[&!color=#-5000269,bootstraps=72]:0.0040271212)[&!color=#-5000269,bootstraps=100]:0.08677413)[&!color=#-5000269,bootstraps=49]:0.018715715,((Polycentropus_pixi_4_1_VA[&!color=#-5000269]:1.2647627E-6,(Polycentropus_pixi_2_2_VA[&!color=#-5000269]:1.2647627E-6,(Polycentropus_pixi_3_1_NB[&!color=#-5000269]:0.002024973,Polycentropus_pixi_1_8_NB[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=98]:0.008479147)[&!color=#-5000269,bootstraps=46]:0.0020395173)[&!color=#-5000269,bootstraps=100]:0.07805168,((Polycentropus_pentus_2_1_ON[&!color=#-5000269]:1.2647627E-6,(Polycentropus_pentus_3_1_AL[&!color=#-5000269]:0.0020034849,'Polycentropus_pentus_1_2_NB|ON'[&!color=#-5000269]:0.0021638868)[&!color=#-5000269,bootstraps=59]:0.0021545836)[&!color=#-5000269,bootstraps=100]:0.058418833,((Polycentropus_22_1_NY[&!color=#-5000269]:1.2647627E-6,Polycentropus_confusus_3_2_NB[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=35]:0.0022220977,(Polycentropus_confusus_5_1_MN[&!color=#-5000269]:0.0043468187,(Polycentropus_confusus_2_3_TN[&!color=#-5000269]:1.2647627E-6,(Polycentropus_confusus_4_1_TN[&!color=#-5000269]:0.0022104548,'Polycentropus_confusus_1_12_AL|GA|NJ|SC|TN|VA'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=41]:0.002117653)[&!color=#-5000269,bootstraps=55]:0.002191964)[&!color=#-5000269,bootstraps=43]:0.002016043)[&!color=#-5000269,bootstraps=100]:0.061695985)[&!color=#-5000269,bootstraps=56]:0.007828563)[&!color=#-5000269,bootstraps=60]:0.01942777)[&!color=#-5000269,bootstraps=60]:0.035127446,((Polycentropus_elarus_3_1_NJ[&!color=#-5000269]:1.2647627E-6,(Polycentropus_elarus_2_1_KY[&!color=#-5000269]:0.0053157248,Polycentropus_elarus_1_2_KY[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=59]:0.002070878)[&!color=#-5000269,bootstraps=99]:0.03381725,((('Polycentropus_maculatus_1_6_NC|TN'[&!color=#-5000269]:1.2647627E-6,Polycentropus_maculatus_2_3_NS[&!color=#-5000269]:0.0038271202)[&!color=#-5000269,bootstraps=100]:0.07734353,(Polycentropus_carolinensis_3_1_NC[&!color=#-5000269]:0.004180798,(Polycentropus_carolinensis_2_1_VA[&!color=#-5000269]:0.0020611165,'Polycentropus_carolinensis_1_7_NC|TN'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=40]:1.2647627E-6)[&!color=#-5000269,bootstraps=76]:0.007974843)[&!color=#-5000269,bootstraps=28]:0.0026006948,(Polycentropus_blicklei_1_1_VA[&!color=#-5000269]:1.2647627E-6,(Polycentropus_blicklei_3_1_VA[&!color=#-5000269]:0.008894733,((Polycentropus_6_1_MD[&!color=#-5000269]:1.2647627E-6,Polycentropus_19_1_MD[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=60]:1.2647627E-6,(('Polycentropus_sp._1_1_NB'[&!color=#-5000269]:1.2647627E-6,'Polycentropus_sp._BIOUG01_2_1_NB'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=85]:0.0024186643,(Polycentropus_blicklei_2_1_VA[&!color=#-5000269]:0.0038016152,('Polycentropus_sp._BIOUG01_1_1_ON'[&!color=#-5000269]:1.2647627E-6,(Polycentropus_7_1_MD[&!color=#-5000269]:0.002654308,(Polycentropus_24_1_MD[&!color=#-5000269]:1.2647627E-6,Polycentropus_5_1_MD[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=53]:1.2647627E-6)[&!color=#-5000269,bootstraps=94]:0.00742958)[&!color=#-5000269,bootstraps=59]:0.0022776024)[&!color=#-5000269,bootstraps=33]:0.0021343005)[&!color=#-5000269,bootstraps=23]:0.0018586024)[&!color=#-5000269,bootstraps=71]:0.01364484)[&!color=#-5000269,bootstraps=92]:0.03029006)[&!color=#-5000269,bootstraps=82]:0.020616028)[&!color=#-5000269,bootstraps=57]:0.012076393)[&!color=#-5000269,bootstraps=98]:0.0853312)[&!color=#-5000269,bootstraps=80]:0.06911983,(((Polycentropus_nigriceps_1_1_CUB[&!color=#-5000269]:0.08830102,(Polycentropus_mathisi_1_1_CUB[&!color=#-5000269]:0.09762482,(Polycentropus_zaneta_2_1_PRI[&!color=#-5000269]:1.2647627E-6,Polycentropus_zaneta_1_1_PRI[&!color=#-5000269]:0.014232024)[&!color=#-5000269,bootstraps=97]:0.07304944)[&!color=#-5000269,bootstraps=59]:0.027849797)[&!color=#-5000269,bootstraps=68]:0.038292613,((Polycentropus_domingensis_1_1_DOM[&!color=#-5000269]:0.0654892,(Polycentropus_jeldesi_1_1_DOM[&!color=#-5000269]:0.0028977403,Polycentropus_jeldesi_2_1_DOM[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.04844845)[&!color=#-5000269,bootstraps=80]:0.031610463,((Polycentropus_pedernales_1_1_DOM[&!color=#-5000269]:0.0026232847,Polycentropus_pedernales_2_1_DOM[&!color=#-5000269]:0.002080502)[&!color=#-5000269,bootstraps=100]:0.04858421,(Polycentropus_vanderpooli_2_1_[&!color=#-5000269]:0.0061523803,Polycentropus_vanderpooli_1_2_DOM[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.08011643)[&!color=#-5000269,bootstraps=49]:0.029773481)[&!color=#-5000269,bootstraps=36]:0.025029419)[&!color=#-5000269,bootstraps=84]:0.068758145,(((Polycentropus_irroratus_2_1_DEU[&!color=#-5000269]:0.0018590346,'Polycentropus_irroratus_1_7_AUT|DEU'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.23089376,(((Polycentropus_corniger_2_1_ESP[&!color=#-5000269]:1.2647627E-6,(Polycentropus_corniger_1_1_PRT[&!color=#-5000269]:1.2647627E-6,Polycentropus_kingi_10_1_PRT[&!color=#-5000269]:0.0017888488)[&!color=#-5000269,bootstraps=84]:0.003617547)[&!color=#-5000269,bootstraps=99]:0.11532196,(Polycentropus_djaman_1_1_KGZ[&!color=#-5000269]:0.17878728,('Polycentropus_schmidi_1_2_AUT|DEU'[&!color=#-5000269]:0.09676828,(Polycentropus_excisus_3_1_GRC[&!color=#-5000269]:1.2647627E-6,(Polycentropus_excisus_4_1_GRC[&!color=#-5000269]:0.0040485673,Polycentropus_excisus_2_1_GRC[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=68]:0.0038366192)[&!color=#-5000269,bootstraps=99]:0.08272461)[&!color=#-5000269,bootstraps=64]:0.04119293)[&!color=#-5000269,bootstraps=6]:1.2647627E-6)[&!color=#-5000269,bootstraps=34]:0.03925294,(((Polycentropus_morettii_2_1_[&!color=#-5000269]:1.2647627E-6,'Polycentropus_morettii_1_2_FRA|ITA'[&!color=#-5000269]:0.0020191341)[&!color=#-5000269,bootstraps=95]:0.033350404,(('Polycentropus_telifer_1_2_PRT|ESP'[&!color=#-5000269]:0.13564189,Polycentropus_excisus_1_8_AUT[&!color=#-5000269]:0.036972445)[&!color=#-5000269,bootstraps=35]:0.012711969,(Plectrocnemia_laetabilis_2_1_FRA[&!color=#-5000269]:0.004437742,(Polycentropus_intricatus_2_1_ESP[&!color=#-5000269]:0.0019304138,(Polycentropus_intricatus_1_3_ESP[&!color=#-5000269]:1.2647627E-6,Polycentropus_longispinosus_1_1_PER[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=73]:1.2647627E-6)[&!color=#-5000269,bootstraps=40]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.08067954)[&!color=#-5000269,bootstraps=43]:0.012474207)[&!color=#-5000269,bootstraps=35]:0.022231027,(((Polycentropus_rickeri_4_1_ITA[&!color=#-5000269]:0.0022501084,(Polycentropus_rickeri_5_1_ITA[&!color=#-5000269]:1.2647627E-6,Polycentropus_mortoni_1_1_ITA[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=68]:1.2647627E-6)[&!color=#-5000269,bootstraps=99]:0.028378513,('Polycentropus_flavomaculatus_3_3_AUT|DEU'[&!color=#-5000269]:1.2647627E-6,(((Polycentropus_flavomaculatus_6_1_DEU[&!color=#-5000269]:0.0027751864,'Polycentropus_flavomaculatus_5_2_AUT|Faeroe_Islands'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=76]:0.0024344896,(Polycentropus_flavomaculatus_9_1_ITA[&!color=#-5000269]:0.0024081096,Polycentropus_flavomaculatus_7_1_ITA[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=75]:0.0024344535)[&!color=#-5000269,bootstraps=63]:0.0025138517,((Polycentropus_flavomaculatus_10_1_AUT[&!color=#-5000269]:0.0049919444,'Polycentropus_flavomaculatus_2_5_AUT|DEU'[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=66]:0.0024599123,('Polycentropus_flavomaculatus_1_6_AUT|FIN|NOR|SWE'[&!color=#-5000269]:1.2647627E-6,(Polycentropus_flavomaculatus_4_2_AUT[&!color=#-5000269]:0.004972477,Polycentropus_flavomaculatus_8_1_NOR[&!color=#-5000269]:0.0024199123)[&!color=#-5000269,bootstraps=12]:1.2647627E-6)[&!color=#-5000269,bootstraps=6]:1.2647627E-6)[&!color=#-5000269,bootstraps=10]:1.2647627E-6)[&!color=#-5000269,bootstraps=42]:0.002419544)[&!color=#-5000269,bootstraps=83]:0.025933862)[&!color=#-5000269,bootstraps=87]:0.042186536,(Polycentropus_kingi_9_1_PRT[&!color=#-5000269]:1.2647627E-6,(Polycentropus_kingi_8_1_PRT[&!color=#-5000269]:1.2647627E-6,((Polycentropus_kingi_4_1_PRT[&!color=#-5000269]:1.2647627E-6,Polycentropus_kingi_6_1_PRT[&!color=#-5000269]:0.0023839439)[&!color=#-5000269,bootstraps=60]:0.0024115993,(Polycentropus_kingi_5_1_ESP[&!color=#-5000269]:1.2647627E-6,(Polycentropus_kingi_7_1_ESP[&!color=#-5000269]:0.0128684295,(Polycentropus_kingi_3_1_ESP[&!color=#-5000269]:0.0024280671,(Polycentropus_kingi_1_3_ESP[&!color=#-5000269]:1.2647627E-6,Polycentropus_kingi_2_1_ESP[&!color=#-5000269]:0.002422723)[&!color=#-5000269,bootstraps=21]:1.2647627E-6)[&!color=#-5000269,bootstraps=45]:1.2647627E-6)[&!color=#-5000269,bootstraps=64]:0.0024169004)[&!color=#-5000269,bootstraps=17]:1.2647627E-6)[&!color=#-5000269,bootstraps=58]:0.0024116172)[&!color=#-5000269,bootstraps=53]:0.0024318662)[&!color=#-5000269,bootstraps=97]:0.048656557)[&!color=#-5000269,bootstraps=48]:0.035635542)[&!color=#-5000269,bootstraps=67]:0.050817937)[&!color=#-5000269,bootstraps=20]:0.0033252598)[&!color=#-5000269,bootstraps=52]:0.058114156,(((Polyplectropus_aurifusca_1_1_NZL[&!color=#-5000269]:1.2647627E-6,Polyplectropus_aurifuscus_4_1_NZL[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=99]:1.2647627E-6,(Polyplectropus_aurifuscus_1_4_NZL[&!color=#-5000269]:1.2647627E-6,(Polyplectropus_aurifuscus_3_2_NZL[&!color=#-5000269]:1.2647627E-6,(Polyplectropus_aurifuscus_2_3_NZL[&!color=#-5000269]:1.2647627E-6,Polyplectropus_aurifuscus_5_1_NZL[&!color=#-5000269]:0.0017870711)[&!color=#-5000269,bootstraps=58]:0.001787166)[&!color=#-5000269,bootstraps=69]:0.0035868965)[&!color=#-5000269,bootstraps=73]:0.009358378)[&!color=#-5000269,bootstraps=92]:0.057988048,((Polyplectropus_impluvii_1_5_NZL[&!color=#-5000269]:0.0013550859,'Polyplectropus_sp._2_1_NZL'[&!color=#-5000269]:0.014913231)[&!color=#-5000269,bootstraps=100]:0.120556034,(Polyplectropus_puerilis_8_1_NZL[&!color=#-5000269]:0.001706901,(Polyplectropus_puerilis_7_1_NZL[&!color=#-5000269]:1.2647627E-6,(Polyplectropus_puerilis_6_1_NZL[&!color=#-5000269]:1.2647627E-6,(Polyplectropus_puerilis_2_1_NZL[&!color=#-5000269]:1.2647627E-6,((Polyplectropus_puerilis_1_8_NZL[&!color=#-5000269]:1.2647627E-6,Polyplectropus_puerilis_3_1_NZL[&!color=#-5000269]:0.005911061)[&!color=#-5000269,bootstraps=59]:0.0011044545,(Polyplectropus_puerilis_10_1_NZL[&!color=#-5000269]:0.0053112707,(Polyplectropus_puerilis_5_1_NZL[&!color=#-5000269]:0.0053817183,(Polyplectropus_puerilis_4_1_NZL[&!color=#-5000269]:1.2647627E-6,((Polyplectropus_altera_1_12_NZL[&!color=#-5000269]:1.2647627E-6,Polyplectropus_altera_4_1_NZL[&!color=#-5000269]:0.0019019957)[&!color=#-5000269,bootstraps=73]:0.0019029161,(Polyplectropus_altera_3_2_NZL[&!color=#-5000269]:0.0019067734,(Polyplectropus_altera_2_4_NZL[&!color=#-5000269]:1.2647627E-6,Polyplectropus_puerilis_9_1_NZL[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=81]:0.00192845)[&!color=#-5000269,bootstraps=33]:1.2647627E-6)[&!color=#-5000269,bootstraps=89]:0.010138446)[&!color=#-5000269,bootstraps=8]:1.2647627E-6)[&!color=#-5000269,bootstraps=45]:0.004901845)[&!color=#-5000269,bootstraps=19]:0.0019353206)[&!color=#-5000269,bootstraps=30]:0.002723804)[&!color=#-5000269,bootstraps=41]:0.0018875329)[&!color=#-5000269,bootstraps=29]:0.0018895007)[&!color=#-5000269,bootstraps=53]:0.0028100903)[&!color=#-5000269,bootstraps=99]:0.09308017)[&!color=#-5000269,bootstraps=61]:0.028017588)[&!color=#-5000269,bootstraps=94]:0.13300434)[&!color=#-5000269,bootstraps=14]:0.0069700787)[&!color=#-5000269,bootstraps=8]:0.014262527)[&!color=#-5000269,bootstraps=7]:0.014469454)[&!color=#-5000269,bootstraps=8]:0.008519586)[&!color=#-5000269,bootstraps=11]:0.03307289)[&!color=#-5000269,bootstraps=4]:0.026998535)[&!color=#-5000269,bootstraps=8]:1.2647627E-6)[&!color=#-5000269,bootstraps=72]:0.08939606)[&!color=#-5000269,bootstraps=32]:0.05257399)[&!color=#-5000269,bootstraps=1]:0.029597491)[&!color=#-5000269,bootstraps=1]:0.019336527)[&!color=#-5000269,bootstraps=0]:0.036965646)[&!color=#-5000269,bootstraps=0]:0.022662459)[&!color=#-5000269,bootstraps=0]:0.03185865)[&!color=#-5000269,bootstraps=0]:1.2647627E-6)[&!color=#-5000269,bootstraps=14]:0.030919122)[&!color=#-5000269,bootstraps=23]:0.033009898)[&!color=#-5000269,bootstraps=60]:0.039172225)[&!color=#-5000269,bootstraps=97]:0.10016995,(((Pseudoneureclipsis_philemon_1_1_THA[&!color=#-5000269]:0.08565663,'Pseudoneureclipsis_HM_sp._TH1_1_1_THA'[&!color=#-5000269]:0.12258567)[&!color=#-5000269,bootstraps=99]:0.08275632,((Pseudoneureclipsis_CJGsp_IQ1_1_1_IRQ[&!color=#-5000269]:0.19799106,'Pseudoneureclipsis_sp._1_1_'[&!color=#-5000269]:0.19766356)[&!color=#-5000269,bootstraps=99]:0.14522912,(Pseudoneureclipsis_josia_1_1_THA[&!color=#-5000269]:0.14775982,(Pseudoneureclipsis_ramosa_3_1_THA[&!color=#-5000269]:0.1288742,(Pseudoneureclipsis_ramosa_1_1_IDN[&!color=#-5000269]:0.026429314,Pseudoneureclipsis_ramosa_2_1_IDN[&!color=#-5000269]:0.025342543)[&!color=#-5000269,bootstraps=100]:0.081692345)[&!color=#-5000269,bootstraps=51]:0.029539254)[&!color=#-5000269,bootstraps=54]:0.03493666)[&!color=#-5000269,bootstraps=79]:0.04793741)[&!color=#-5000269,bootstraps=98]:0.15751876,((Antillopsyche_tubicola_1_1_PRI[&!color=#-5000269]:0.010866314,(Antillopsyche_demma_1_1_DOM[&!color=#-5000269]:0.0037948408,Antillopsyche_demma_2_1_DOM[&!color=#-5000269]:1.2647627E-6)[&!color=#-5000269,bootstraps=100]:0.20450208)[&!color=#-5000269,bootstraps=100]:0.21450329)[&!color=#-5000269,bootstraps=100]:0.28475267)[&!color=#-5000269,bootstraps=100]:0.083093695)[&!color=#-5000269,bootstraps=65]:0.068306245)[&!color=#-5000269,bootstraps=73]:0.052195076)[&!color=#-5000269,bootstraps=54]:0.036600705)[&!color=#-5000269,bootstraps=15]:0.23208007)[&!color=#-5000269,bootstraps=100]:0.0650778)[&!color=#-5000269,bootstraps=39]:0.090225644)[&!color=#-5000269,bootstraps=52];
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="User Selection";
+	set appearance.backgroundColour=#-1;
+	set appearance.branchColorAttribute="User Selection";
+	set appearance.branchLineWidth=5.0;
+	set appearance.foregroundColour=#-16777216;
+	set appearance.selectionColour=#-2144520576;
+	set branchLabels.colorAttribute="User Selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="Abadi MT Condensed Extra Bold";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="POLAR";
+	set layout.zoom=0;
+	set nodeBars.barWidth=4.0;
+	set nodeLabels.colorAttribute="User Selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="Abadi MT Condensed Extra Bold";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=0;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleAxis.significantDigits=4;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set scaleBar.significantDigits=4;
+	set tipLabels.colorAttribute="User Selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Abadi MT Condensed Extra Bold";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=false;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

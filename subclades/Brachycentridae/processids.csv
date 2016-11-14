@@ -1,0 +1,525 @@
+ProcessID,HaplotypeID
+HMKKT469-10,Brachycentrus montanus_1[1]Austria
+FBCAD004-10,Brachycentrus montanus_2[1]Germany
+HMKKT192-10,Brachycentrus montanus_3[1]Austria
+FBAQU347-09,Brachycentrus montanus_4[1]Germany
+HMKKT472-10,Brachycentrus montanus_5[1]Austria
+HMKKT470-10,Brachycentrus montanus_6[1]Austria
+HMKKT471-10,Brachycentrus montanus_7[1]Austria
+JPTRI040-10,Brachycentrus kuwayamai_1[1]Japan
+JPTRI041-10,Brachycentrus kuwayamai_2[1]Japan
+JPTRI007-09,Micrasema akagiap_1[2]Japan
+JPTRI004-09,Micrasema akagiap_1[2]Japan
+JPTRI003-09,Micrasema akagiap_2[1]Japan
+JPTRI005-09,Micrasema akagiap_3[1]Japan
+JPTRI006-09,Micrasema akagiap_4[1]Japan
+JPTRI081-10,Micrasema akagiae_1[1]Japan
+JPTRI082-10,Micrasema akagiae_2[1]Japan
+OFTRI003-10,Micrasema akagiae_3[1]Japan
+HMKKT766-10,Brachycentrus kozlovi_1[1]China.
+KKUMN460-10,Micrasema vestitum_1[1]Spain
+DRCAD316-09,Brachycentrus appalachia_1[3]NY
+DRCAD314-09,Brachycentrus appalachia_1[3]NY
+DRCAD312-09,Brachycentrus appalachia_1[3]NY
+DRCAD313-09,Brachycentrus appalachia_2[1]NY
+DRCAD315-09,Brachycentrus appalachia_3[1]NY
+KKUMN423-10,Micrasema servatum_1[2]Spain
+KKUMN422-10,Micrasema servatum_1[2]Spain
+HMKKT655-10,Micrasema servatum_2[1]Portugal
+CZCAD089-10,Micrasema servatum_3[1]Spain
+CZCAD090-10,Micrasema servatum_4[1]Spain
+HMTRI019-08,Brachycentrus maculatus_1[2]Austria
+HMCAD432-09,Brachycentrus maculatus_1[2]Austria
+FBAQU004-09,Brachycentrus maculatus_2[1]Germany
+AMIC105-07,Micrasema_1[1]MD
+AMIB198-08,Micrasema_2[1]MD
+AMIB017-07,Micrasema_3[1]MD
+SWRCB110-08,Micrasema_4[1]PA
+NZTRI108-09,Oeconesus maori_1[1]New Zealand
+RMCAD135-08,Amiocentrus aspilus_1[4]CA
+RMCAD136-08,Amiocentrus aspilus_1[4]CA
+OFCAD064-08,Amiocentrus aspilus_1[4]CA
+RMCAD137-08,Amiocentrus aspilus_1[4]CA
+RMCAD138-08,Amiocentrus aspilus_2[1]AB
+OFCAD063-08,Amiocentrus aspilus_3[1]CA
+CSUTR175-10,Amiocentrus aspilus_4[1]WY
+OFCAD062-08,Amiocentrus aspilus_5[1]SD
+CSUTR174-10,Amiocentrus aspilus_6[1]WY
+CSUTR172-10,Amiocentrus aspilus_7[1]WY
+CSUTR173-10,Amiocentrus aspilus_8[1]WY
+KKUMN022-10,Amiocentrus aspilus_9[1]ID
+JPCAD017-08,Micrasema hanasense_1[4]Japan
+JPCAD016-08,Micrasema hanasense_1[4]Japan
+JPCAD012-08,Micrasema hanasense_1[4]Japan
+JPCAD011-08,Micrasema hanasense_1[4]Japan
+JPCAD015-08,Micrasema hanasense_2[1]Japan
+JPCAD014-08,Micrasema hanasense_3[1]Japan
+JPCAD013-08,Micrasema hanasense_4[1]Japan
+KKCAD460-07,Silvatares ensifer_1[1]South Africa
+PKCAD767-08,Brachycentrus spinae_1[1]NC
+OFCAD079-08,Brachycentrus spinae_2[1]TN
+CUTLV196-09,Limnephilus infernalis_1[1]MB
+CNTLV086-09,Micrasema XZ sp. CN1_1[1]China.Yunnan
+UMNEB675-08,Eobrachycentrus kitayamanus_1[1]Japan
+KKNEA012-09,Goereilla baumanni_1[1]ID
+CUCAD092-07,Banksiola crotchi_1[1]MB
+OFCAD103-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+OFCAD102-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI699-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI696-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI694-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI601-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI597-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI596-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI595-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI594-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI593-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI591-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI519-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI260-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI258-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI257-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI254-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI253-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI250-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI249-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI248-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI247-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI246-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI244-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI241-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI239-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI238-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI237-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI234-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI232-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI231-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI230-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI227-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI224-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI222-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI221-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI220-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI219-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI218-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI217-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI216-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI215-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI214-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI212-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI211-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI208-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI203-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI158-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI156-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI155-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI154-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI153-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI151-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI150-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI137-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI075-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI073-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD475-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD473-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD469-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD462-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD430-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD424-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD335-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD269-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+GUCAD002-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+GSEPT062-09,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+ELPYO046-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+PKCAD220-07,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD628-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD209-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI213-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD286-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD273-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI160-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD301-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD312-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD288-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD231-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI157-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD334-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD319-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD275-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD270-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+GUCAD021-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD302-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD265-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI236-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI152-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD264-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI235-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBTRI159-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD622-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+UMNEB272-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD619-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+GUCAD038-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+NBCAD612-08,Micrasema rusticum_1[97]KY|MN|NB|ON|VA
+PKCAD742-08,Micrasema rusticum_2[1]TN
+NBCAD303-08,Micrasema rusticum_3[1]NB
+MDA860-09,Micrasema rusticum_4[1]VA
+OFCAD068-08,Brachycentrus incanus_1[3]ON
+OFCAD067-08,Brachycentrus incanus_1[3]ON
+OFCAD066-08,Brachycentrus incanus_1[3]ON
+EVCAD573-07,Brachycentrus sp. BIOUG01_1[11]NB|NS
+EVCAD572-07,Brachycentrus sp. BIOUG01_1[11]NB|NS
+EVCAD571-07,Brachycentrus sp. BIOUG01_1[11]NB|NS
+EVCAD569-07,Brachycentrus sp. BIOUG01_1[11]NB|NS
+ECFOM160-10,Brachycentrus sp. BIOUG01_1[11]NB|NS
+ECFOM155-10,Brachycentrus sp. BIOUG01_1[11]NB|NS
+ECFOM100-10,Brachycentrus sp. BIOUG01_1[11]NB|NS
+ECFOM095-10,Brachycentrus sp. BIOUG01_1[11]NB|NS
+ECFOM075-10,Brachycentrus sp. BIOUG01_1[11]NB|NS
+ECCAD656-10,Brachycentrus sp. BIOUG01_1[11]NB|NS
+ECFOM149-10,Brachycentrus sp. BIOUG01_1[11]NB|NS
+EVCAD570-07,Brachycentrus sp. BIOUG01_2[1]NB
+ECFOM148-10,Brachycentrus sp. BIOUG01_3[1]NB
+NBTRI127-08,Goera fuscula_1[1]NB
+OFCAD098-08,Micrasema (gelidum) gentile_1[1]AK
+OFTRI001-10,Eobrachycentrus vernalis_1[2]Japan
+OFTRI002-10,Eobrachycentrus vernalis_1[2]Japan
+JPTRI050-10,Eobrachycentrus vernalis_2[1]Japan
+NZTRI172-10,Kokiria miharo_1[1]New Zealand
+CSUTR067-10,Pseudostenophylax edwardsi_1[1]CA
+OFCAD077-08,Brachycentrus occidentalis_1[2]AR
+OFCAD076-08,Brachycentrus occidentalis_1[2]AR
+UMNEA024-08,Brachycentrus occidentalis_2[1]MN
+UMNEA023-08,Brachycentrus occidentalis_3[1]MN
+OFCAD078-08,Brachycentrus occidentalis_4[1]AR
+OFCAD081-08,Eobrachycentrus gelidae_1[1]OR
+SMTRI011-10,Micrasema rickeri_1[1]NC
+PKCAD766-08,Brachycentrus lateralis_1[3]TN|VA
+OFCAD070-08,Brachycentrus lateralis_1[3]TN|VA
+OFCAD069-08,Brachycentrus lateralis_1[3]TN|VA
+UMNEB822-08,Micrasema charonis_1[3]NC|TN
+SMCAD222-07,Micrasema charonis_1[3]NC|TN
+SMCAD189-07,Micrasema charonis_1[3]NC|TN
+CBCAD049-10,Micrasema charonis_2[3]NS
+CBCAD045-10,Micrasema charonis_2[3]NS
+CBCAD043-10,Micrasema charonis_2[3]NS
+OFCAD094-08,Micrasema charonis_3[1]PE
+OFCAD093-08,Micrasema charonis_4[1]NB
+SMCAD190-07,Micrasema charonis_5[1]TN
+CRCAD041-07,Micrasema charonis_6[1]NC
+UMNEB269-08,Micrasema charonis_7[1]NC
+CBCAD044-10,Micrasema charonis_8[1]NS
+OFCAD091-08,Micrasema charonis_9[1]VA
+FLCAD030-08,Micrasema AR n. sp. US1_1[1]FL
+FLCAD161-09,Micrasema AR n. sp. US1_2[1]FL
+FLCAD110-09,Micrasema AR n. sp. US1_3[1]FL
+VCTRI177-10,Brachycentrus americanus_1[42]MB|MN
+VCTRI160-10,Brachycentrus americanus_1[42]MB|MN
+VCTRI095-10,Brachycentrus americanus_1[42]MB|MN
+VCTRI021-10,Brachycentrus americanus_1[42]MB|MN
+VCTRI020-10,Brachycentrus americanus_1[42]MB|MN
+VCTRI019-10,Brachycentrus americanus_1[42]MB|MN
+VCTRI016-10,Brachycentrus americanus_1[42]MB|MN
+VCTRI015-10,Brachycentrus americanus_1[42]MB|MN
+VCTRI014-10,Brachycentrus americanus_1[42]MB|MN
+VCTRI011-10,Brachycentrus americanus_1[42]MB|MN
+VCTRI009-10,Brachycentrus americanus_1[42]MB|MN
+VCTRI008-10,Brachycentrus americanus_1[42]MB|MN
+VCTRI007-10,Brachycentrus americanus_1[42]MB|MN
+VCTRI006-10,Brachycentrus americanus_1[42]MB|MN
+VCTRI004-10,Brachycentrus americanus_1[42]MB|MN
+VCTLS069-09,Brachycentrus americanus_1[42]MB|MN
+VCTLS054-09,Brachycentrus americanus_1[42]MB|MN
+UMNEB738-08,Brachycentrus americanus_1[42]MB|MN
+EBTCH284-11,Brachycentrus americanus_1[42]MB|MN
+EBTCH010-11,Brachycentrus americanus_1[42]MB|MN
+EBTCH009-11,Brachycentrus americanus_1[42]MB|MN
+EBTCH007-11,Brachycentrus americanus_1[42]MB|MN
+EBTCH004-11,Brachycentrus americanus_1[42]MB|MN
+EBTCH001-11,Brachycentrus americanus_1[42]MB|MN
+CUTRI144-09,Brachycentrus americanus_1[42]MB|MN
+CUTRI143-09,Brachycentrus americanus_1[42]MB|MN
+CUTRI097-09,Brachycentrus americanus_1[42]MB|MN
+CUTRI069-09,Brachycentrus americanus_1[42]MB|MN
+CUTRI045-09,Brachycentrus americanus_1[42]MB|MN
+CUTLV465-09,Brachycentrus americanus_1[42]MB|MN
+CUTLV298-09,Brachycentrus americanus_1[42]MB|MN
+CUTLV054-09,Brachycentrus americanus_1[42]MB|MN
+CUTLV052-09,Brachycentrus americanus_1[42]MB|MN
+CUTLV051-09,Brachycentrus americanus_1[42]MB|MN
+CUCAD715-07,Brachycentrus americanus_1[42]MB|MN
+CUCAD714-07,Brachycentrus americanus_1[42]MB|MN
+CUCAD713-07,Brachycentrus americanus_1[42]MB|MN
+CUCAD712-07,Brachycentrus americanus_1[42]MB|MN
+CUCAD711-07,Brachycentrus americanus_1[42]MB|MN
+CUCAD710-07,Brachycentrus americanus_1[42]MB|MN
+UMNEB739-08,Brachycentrus americanus_1[42]MB|MN
+CUTLV466-09,Brachycentrus americanus_1[42]MB|MN
+UMNEA014-08,Brachycentrus americanus_2[18]AB|ID|MT
+UMNEA012-08,Brachycentrus americanus_2[18]AB|ID|MT
+UMNEA011-08,Brachycentrus americanus_2[18]AB|ID|MT
+UMNEA009-08,Brachycentrus americanus_2[18]AB|ID|MT
+ABCAD186-08,Brachycentrus americanus_2[18]AB|ID|MT
+ABCAD181-08,Brachycentrus americanus_2[18]AB|ID|MT
+ABCAD180-08,Brachycentrus americanus_2[18]AB|ID|MT
+ABCAD179-08,Brachycentrus americanus_2[18]AB|ID|MT
+ABCAD138-08,Brachycentrus americanus_2[18]AB|ID|MT
+ABCAD123-08,Brachycentrus americanus_2[18]AB|ID|MT
+ABCAD118-08,Brachycentrus americanus_2[18]AB|ID|MT
+ABCAD084-08,Brachycentrus americanus_2[18]AB|ID|MT
+ABCAD083-08,Brachycentrus americanus_2[18]AB|ID|MT
+ABCAD081-08,Brachycentrus americanus_2[18]AB|ID|MT
+ABCAD080-08,Brachycentrus americanus_2[18]AB|ID|MT
+ABCAD079-08,Brachycentrus americanus_2[18]AB|ID|MT
+ABCAD073-08,Brachycentrus americanus_2[18]AB|ID|MT
+ABCAD049-08,Brachycentrus americanus_2[18]AB|ID|MT
+VCTLS022-09,Brachycentrus americanus_3[12]MB
+VCTLS021-09,Brachycentrus americanus_3[12]MB
+VCTLS018-09,Brachycentrus americanus_3[12]MB
+VCTLS014-09,Brachycentrus americanus_3[12]MB
+VCTLS013-09,Brachycentrus americanus_3[12]MB
+EBTCH006-11,Brachycentrus americanus_3[12]MB
+EBTCH005-11,Brachycentrus americanus_3[12]MB
+CUTLV350-09,Brachycentrus americanus_3[12]MB
+VCTLS015-09,Brachycentrus americanus_3[12]MB
+EBTCH281-11,Brachycentrus americanus_3[12]MB
+EBTCH285-11,Brachycentrus americanus_3[12]MB
+EBTCH282-11,Brachycentrus americanus_3[12]MB
+CUTLV239-09,Brachycentrus americanus_4[7]MB
+CUTLV240-09,Brachycentrus americanus_4[7]MB
+CUCAD709-07,Brachycentrus americanus_4[7]MB
+CUTLV297-09,Brachycentrus americanus_4[7]MB
+EBTCH008-11,Brachycentrus americanus_4[7]MB
+VCTRI183-10,Brachycentrus americanus_4[7]MB
+EBTCH002-11,Brachycentrus americanus_4[7]MB
+VCTLS055-09,Brachycentrus americanus_5[5]MB
+CUTLV263-09,Brachycentrus americanus_5[5]MB
+EBTCH283-11,Brachycentrus americanus_5[5]MB
+VCTRI091-10,Brachycentrus americanus_5[5]MB
+CUTRI111-09,Brachycentrus americanus_5[5]MB
+MGCAD050-08,Brachycentrus americanus_6[4]Mongolia
+MGCAD048-08,Brachycentrus americanus_6[4]Mongolia
+MGCAD047-08,Brachycentrus americanus_6[4]Mongolia
+MGCAD045-08,Brachycentrus americanus_6[4]Mongolia
+UTCAD005-10,Brachycentrus americanus_7[3]UT
+UTCAD004-10,Brachycentrus americanus_7[3]UT
+UMNEA015-08,Brachycentrus americanus_7[3]UT
+MGCAD044-08,Brachycentrus americanus_8[3]Mongolia
+MGCAD046-08,Brachycentrus americanus_8[3]Mongolia
+MGCAD049-08,Brachycentrus americanus_8[3]Mongolia
+HMKKT290-10,Brachycentrus americanus_9[3]Kyrgyzstan
+HMKKT1006-11,Brachycentrus americanus_9[3]Kyrgyzstan
+HMKKT007-10,Brachycentrus americanus_9[3]Kyrgyzstan
+UMNEA013-08,Brachycentrus americanus_10[2]BC|WY
+LBCG2335-09,Brachycentrus americanus_10[2]BC|WY
+ABCAD211-08,Brachycentrus americanus_11[2]AB
+ABCAD158-08,Brachycentrus americanus_11[2]AB
+CUTLV349-09,Brachycentrus americanus_12[2]MB
+EBTCH003-11,Brachycentrus americanus_12[2]MB
+KKCAD267-07,Brachycentrus americanus_13[1]WY
+UTCAD003-10,Brachycentrus americanus_14[1]UT
+JPCAD003-08,Brachycentrus americanus_15[1]Japan
+UMNEB304-08,Brachycentrus americanus_16[1]UT
+JPCAD004-08,Brachycentrus americanus_17[1]Japan
+JPCAD002-08,Brachycentrus americanus_18[1]Japan
+EVCAD564-07,Brachycentrus americanus_19[1]NB
+JPCAD001-08,Brachycentrus americanus_20[1]Japan
+UMNEB303-08,Brachycentrus americanus_21[1]NV
+ABCAD117-08,Brachycentrus americanus_22[1]AB
+VCTLS064-09,Brachycentrus americanus_23[1]MB
+VCTLS059-09,Brachycentrus americanus_24[1]MB
+VCTLS056-09,Brachycentrus americanus_25[1]MB
+CUTRI098-09,Brachycentrus americanus_26[1]MB
+CUTLV264-09,Brachycentrus americanus_27[1]MB
+UMNEA010-08,Brachycentrus americanus_28[1]OR
+MGCAD051-08,Brachycentrus americanus_29[1]Mongolia
+GBMH6364-09,Brachycentrus americanus_30[1]
+JPCAD005-08,Brachycentrus americanus_31[1]Japan
+JPTRI037-10,Brachycentrus americanus_32[1]Japan
+MDA855-09,Brachycentrus americanus_33[1]IA
+MDA856-09,Brachycentrus americanus_34[1]NB
+MGCAD054-08,Micrasema (gelidum) gelidum_1[2]Mongolia
+MGCAD056-08,Micrasema (gelidum) gelidum_1[2]Mongolia
+MGCAD053-08,Micrasema (gelidum) gelidum_2[2]Mongolia
+MGCAD057-08,Micrasema (gelidum) gelidum_2[2]Mongolia
+TRIFI534-11,Micrasema (gelidum) gelidum_3[1]Finland
+JPCAD007-08,Micrasema (gelidum) gelidum_4[1]Japan
+TRIFI535-11,Micrasema (gelidum) gelidum_5[1]Finland
+MGCAD055-08,Micrasema (gelidum) gelidum_6[1]Mongolia
+JPCAD008-08,Micrasema (gelidum) gelidum_7[1]Japan
+JPCAD010-08,Micrasema (gelidum) gelidum_8[1]Japan
+JPCAD009-08,Micrasema (gelidum) gelidum_9[1]Japan
+MGCAD058-08,Micrasema (gelidum) gelidum_10[1]Mongolia
+MGCAD052-08,Micrasema (gelidum) gelidum_11[1]Mongolia
+MGCAD059-08,Micrasema (gelidum) gelidum_12[1]Mongolia
+PKCAD846-08,Micrasema JR sp. US1_1[1]NC
+TWCAD019-08,Brachycentrid XZ sp. TW1_1[1]Taiwan
+UMNEA021-08,Micrasema bactro_1[3]OR
+UMNEA020-08,Micrasema bactro_1[3]OR
+UMNEA025-08,Micrasema bactro_1[3]OR
+UMNEA018-08,Micrasema bactro_2[2]ID
+UMNEA017-08,Micrasema bactro_2[2]ID
+GBMH6363-09,Micrasema bactro_3[1]
+UMNEB621-08,Micrasema bactro_4[1]OR
+UMNEA022-08,Micrasema bactro_5[1]OR
+KKCAD275-07,Micrasema bactro_6[1]UT
+UMNEB622-08,Micrasema bactro_7[1]MT
+UMNEA019-08,Micrasema bactro_8[1]MT
+DRCAD048-08,Micrasema sprulesi_1[3]NY
+DRCAD047-08,Micrasema sprulesi_1[3]NY
+DRCAD046-08,Micrasema sprulesi_1[3]NY
+AMIE147-07,Micrasema sp. CNW_1[1]MD
+OFTRI007-10,Micrasema sericeum_1[1]Spain
+GSEPT262-10,Brachycentrus fuliginosus_1[12]MB
+CUTRI228-09,Brachycentrus fuliginosus_1[12]MB
+CUTRI227-09,Brachycentrus fuliginosus_1[12]MB
+CUTRI226-09,Brachycentrus fuliginosus_1[12]MB
+CUTRI225-09,Brachycentrus fuliginosus_1[12]MB
+CUTRI090-09,Brachycentrus fuliginosus_1[12]MB
+CUTRI089-09,Brachycentrus fuliginosus_1[12]MB
+CUTRI088-09,Brachycentrus fuliginosus_1[12]MB
+CUTRI087-09,Brachycentrus fuliginosus_1[12]MB
+CUTRI086-09,Brachycentrus fuliginosus_1[12]MB
+CUTRI085-09,Brachycentrus fuliginosus_1[12]MB
+CUCAD742-07,Brachycentrus fuliginosus_1[12]MB
+UMNEO143-09,Brachycentrus fuliginosus_2[1]WI
+CBCAD350-10,Brachycentrus fuliginosus_3[1]NS
+CBCAD104-10,Brachycentrus fuliginosus_4[1]NS
+CNTLV186-09,Brachycentrus XZ sp. CN1_1[3]China.Yunnan
+CNTLV135-09,Brachycentrus XZ sp. CN1_1[3]China.Yunnan
+CNTLV134-09,Brachycentrus XZ sp. CN1_1[3]China.Yunnan
+CNTLV157-09,Brachycentrus XZ sp. CN1_2[1]China.Yunnan
+UMNEA027-08,Micrasema onisca_1[1]AZ
+OFCAD099-08,Micrasema onisca_2[1]AZ
+OFCAD101-08,Micrasema onisca_3[1]AZ
+OFCAD100-08,Micrasema onisca_4[1]AZ
+UMNEA460-08,Monocosmoecus pulcher_1[1]Chile
+DRCAD045-08,Apatania incerta_1[1]NY
+FBCAD051-10,Micrasema morosum_1[1]Germany
+HMKKT592-10,Micrasema minimum_1[1]Austria
+FBCAD050-10,Micrasema minimum_2[1]Germany
+FBAQU151-09,Micrasema minimum_3[1]Germany
+HMKKT283-10,Micrasema minimum_4[1]Austria
+TRIFI549-11,Brachycentrus subnubilus_1[2]Finland
+TRIFI548-11,Brachycentrus subnubilus_1[2]Finland
+FBCAD007-10,Brachycentrus subnubilus_2[2]Germany
+FBCAD005-10,Brachycentrus subnubilus_2[2]Germany
+FBCAD006-10,Brachycentrus subnubilus_3[1]Germany
+FBCAD008-10,Brachycentrus subnubilus_4[1]Germany
+FBAQU133-09,Micrasema longulum_1[3]Germany|Spain
+ESCAD068-10,Micrasema longulum_1[3]Germany|Spain
+ESCAD067-10,Micrasema longulum_1[3]Germany|Spain
+ESCAD069-10,Micrasema longulum_2[1]Spain
+OFTRI008-10,Micrasema spinosum_1[1]Japan
+CZCAD093-10,Micrasema moestum_1[2]Spain
+CZCAD091-10,Micrasema moestum_1[2]Spain
+ESCAD066-10,Micrasema moestum_2[2]Spain
+ESCAD065-10,Micrasema moestum_2[2]Spain
+HMKKT654-10,Micrasema moestum_3[2]Portugal
+HMKKT653-10,Micrasema moestum_3[2]Portugal
+ESCAD062-10,Micrasema moestum_4[1]Spain
+ESCAD061-10,Micrasema moestum_5[1]Spain
+ESCAD063-10,Micrasema moestum_6[1]Spain
+ESCAD064-10,Micrasema moestum_7[1]Spain
+CZCAD092-10,Micrasema moestum_8[1]Spain
+HMKKT656-10,Micrasema moestum_9[1]Portugal
+HMKKT652-10,Micrasema moestum_10[1]Portugal
+HMKKT651-10,Micrasema moestum_11[1]Portugal
+UMNEB734-08,Micrasema (gelidum) canusa_1[3]IA|MN
+OFCAD095-08,Micrasema (gelidum) canusa_1[3]IA|MN
+UMNEB270-08,Micrasema (gelidum) canusa_1[3]IA|MN
+DRCAD414-10,Yphria californica_1[1]CA
+EBTCH020-11,Lepidostoma togatum_1[1]MB
+OFCAD075-08,Brachycentrus nigrosoma_1[3]MD|VA
+OFCAD073-08,Brachycentrus nigrosoma_1[3]MD|VA
+OFCAD072-08,Brachycentrus nigrosoma_1[3]MD|VA
+OFCAD071-08,Brachycentrus nigrosoma_2[1]MD
+MDA127-08,Brachycentrus nigrosoma_3[1]VA
+OFCAD074-08,Brachycentrus nigrosoma_4[1]VA
+PKCAD765-08,Brachycentrus nigrosoma_5[1]TN
+INHST478-09,Brachycentrus numerosus_1[2]IL
+INHST479-09,Brachycentrus numerosus_1[2]IL
+AMIH112-08,Brachycentrus numerosus_2[1]MD
+RMCAD156-08,Brachycentrus numerosus_3[1]VA
+HIEPT242-10,Brachycentrus numerosus_4[1]GA
+PKCAD768-08,Brachycentrus numerosus_5[1]NC
+HMKKT467-10,Micrasema setiferum_1[2]Austria
+HMKKT191-10,Micrasema setiferum_1[2]Austria
+TRIFI537-11,Micrasema setiferum_2[1]Estonia
+TRIFI533-11,Micrasema setiferum_3[1]Finland
+TRIFI536-11,Micrasema setiferum_4[1]Estonia
+TRIFI530-11,Micrasema setiferum_5[1]Russia.
+TRIFI532-11,Micrasema setiferum_6[1]Finland
+TRIFI529-11,Micrasema setiferum_7[1]Russia.
+TRIFI527-11,Micrasema setiferum_8[1]Russia.
+HMKKT466-10,Micrasema setiferum_9[1]Austria
+HMTRI179-08,Micrasema setiferum_10[1]Austria
+HMKKT468-10,Micrasema setiferum_11[1]Austria
+FBCAD052-10,Micrasema setiferum_12[1]Germany
+HMKKT627-10,Micrasema setiferum_13[1]Austria
+HMKKT626-10,Micrasema setiferum_14[1]Austria
+HMKKT465-10,Micrasema setiferum_15[1]Austria
+CAUTR043-09,Brachycentridae_1[2]China.Beijing Shi
+CAUTR042-09,Brachycentridae_1[2]China.Beijing Shi
+TWCAD006-08,Brachycentridae_2[1]Taiwan
+CAUTR066-09,Brachycentridae_3[1]China.Liaoning
+OFCAD089-08,Micrasema sp._1[1]NC
+OFCAD088-08,Micrasema sp._2[1]VA
+PKCAD338-07,Theliopsyche melas_1[1]TN
+SMCAD120-07,Neophylax consimilis_1[1]NC
+PKCAD028-07,Micrasema burksi_1[2]NC
+OFCAD090-08,Micrasema burksi_1[2]NC
+SMTRI012-10,Micrasema burksi_2[1]NC
+HIEPT039-09,Micrasema burksi_3[1]SC
+OFCAD086-08,Micrasema bennetti_1[1]VA
+RMCAD144-08,Brachycentrus echo_1[2]CA
+RMCAD143-08,Brachycentrus echo_1[2]CA
+INCAD247-10,Brachycentrus echo_2[2]UT
+INCAD246-10,Brachycentrus echo_2[2]UT
+RMCAD141-08,Brachycentrus echo_3[1]CA
+UTCAD001-10,Brachycentrus echo_4[1]UT
+INCAD248-10,Brachycentrus echo_5[1]UT
+OFCAD065-08,Brachycentrus chelatus_1[1]MS
+JPCAD087-08,Phryganopsyche latipennis_1[1]Japan
+LTUT408-11,Plectrotarsus minor_1[1]Australia.Western Australia
+HMKKT255-10,Drusus discolor_1[1]Austria
+CZCAD088-10,Micrasema cenerentola_1[1]Spain
+CZCAD087-10,Micrasema cenerentola_2[1]Spain
+MDA865-09,Micrasema scotti_1[1]VA
+OFCAD106-08,Micrasema scotti_2[1]TN
+PKCAD277-07,Micrasema scotti_3[1]GA
+OFCAD104-08,Micrasema scotti_4[1]VA
+OFCAD105-08,Micrasema scotti_5[1]VA
+OFCAD083-08,Micrasema diteris_1[1]CA
+OFTRI011-10,Tsudaea kitayamanus_1[1]
+SMCAD724-07,Micrasema wataga_1[9]GA|TN
+SMCAD723-07,Micrasema wataga_1[9]GA|TN
+SMCAD712-07,Micrasema wataga_1[9]GA|TN
+SMCAD655-07,Micrasema wataga_1[9]GA|TN
+SMCAD039-07,Micrasema wataga_1[9]GA|TN
+SMCAD035-07,Micrasema wataga_1[9]GA|TN
+HIMXD028-10,Micrasema wataga_1[9]GA|TN
+HIMXD013-10,Micrasema wataga_1[9]GA|TN
+SMCAD722-07,Micrasema wataga_1[9]GA|TN
+SMCAD038-07,Micrasema wataga_2[2]TN
+SMCAD032-07,Micrasema wataga_2[2]TN
+ONCAD1082-09,Micrasema wataga_3[2]ON|SC
+CRCAD105-07,Micrasema wataga_3[2]ON|SC
+OFCAD092-08,Micrasema wataga_4[2]NB|NY
+BKCAD026-08,Micrasema wataga_4[2]NB|NY
+BKCAD023-08,Micrasema wataga_5[1]NY
+SMCAD221-07,Micrasema wataga_6[1]TN
+SMCAD037-07,Micrasema wataga_7[1]TN
+MDA862-09,Micrasema wataga_8[1]VA
+HIMXD011-10,Micrasema wataga_9[1]NC
+BKCAD027-08,Micrasema wataga_10[1]NY
+CRCAD017-07,Micrasema wataga_11[1]SC
+UMNEA028-08,Micrasema wataga_12[1]MN
+UMNEB271-08,Micrasema wataga_13[1]TN
+PKCAD213-07,Micrasema wataga_14[1]TN
+BKCAD025-08,Micrasema wataga_15[1]NY
+SMCAD036-07,Micrasema wataga_16[1]TN
+FLCAD029-08,Micrasema wataga_17[1]FL
+SMCAD713-07,Micrasema wataga_18[1]TN
+GUCAD027-08,Micrasema wataga_19[1]ON
+PKCAD159-07,Micrasema wataga_20[1]VA
+MDA861-09,Micrasema wataga_21[1]ON
